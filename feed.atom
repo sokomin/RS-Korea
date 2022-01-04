@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-Korea/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-04T10:02:28.425Z</updated>
+    <updated>2022-01-04T10:30:55.439Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-Korea/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-Korea/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[18:10 | [1월 5일 정기점검 안내] | 7508]]></title>
+        <id>ab1c3f9237b3d95dc704fc89fb6855a2</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7508"/>
+        <updated>2022-01-04T10:30:53.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021-12-27 | [12월 27일 신규 ULT 아이템 안내] | 7497]]></title>
         <id>5bd43b5bc1fb2d01067575a40b207a6d</id>
