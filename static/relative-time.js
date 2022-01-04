@@ -39,12 +39,24 @@ document.querySelectorAll(".jst-iso-time").forEach((timeElement) => {
     timeElement.textContent = getJstFormatedTime(publishDate);
 });
 
+// ビルド後に実行されるjavaScriptなので、この記法はできない
+// document.querySelectorAll(".js-translated-url").forEach((e) => {
+//     console.log(e.textContent);
+//     if(String(e.textContent)){
+//         // そのうち5桁になる可能性があるので注意
+//         // var num = String(e.textContent).slice( -4 );
+//         var num = String(e.textContent).match(/[0-9]*$/)[0]|0;
+//         e.innerHTML = 'アクセスできない時は<a href="https://sokomin.github.io/korea-info/out/origin_front/'+ num +'">こちら</a>'
+//     }
+// });
+
 document.querySelectorAll(".js-translated-url").forEach((e) => {
-    console.log(e.textContent);
-    if(String(e.textContent)){
+    var val = e.getAttribute("value")
+    // console.log(val);
+    if(String(val)){
         // そのうち5桁になる可能性があるので注意
-        // var num = String(e.textContent).slice( -4 );
-        var num = String(e.textContent).match(/[0-9]*$/)[0]|0;
+        var num = String(val).match(/[0-9]*$/)[0]|0;
+        // console.log(num)
         e.innerHTML = 'アクセスできない時は<a href="https://sokomin.github.io/korea-info/out/origin_front/'+ num +'">こちら</a>'
     }
 });
