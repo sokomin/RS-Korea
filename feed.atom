@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://sokomin.github.io/RS-RSS/index.html</id>
+    <id>https://sokomin.github.io/RS-Korea/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-04T04:41:20.980Z</updated>
+    <updated>2022-01-04T04:49:38.489Z</updated>
     <generator>osmosfeed 1.11.3</generator>
-    <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
-    <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
+    <link rel="alternate" href="https://sokomin.github.io/RS-Korea/index.html"/>
+    <link rel="self" href="https://sokomin.github.io/RS-Korea/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[2021-12-31 | [12월 27일(수) 임시점검 보상 안내]]]></title>
         <id>01ad3b39cc175e369db656830d38c0d9</id>
