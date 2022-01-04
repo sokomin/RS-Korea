@@ -1,706 +1,728 @@
 <!DOCTYPE html>
+<!--
+  Material Design Lite
+  Copyright 2015 Google Inc. All rights reserved.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      https://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License
+-->
+
 <html lang="en">
 
 <head>
-  <title>osmos::feed</title>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="robots" content="noindex, nofollow" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-  <link rel="alternate" type="application/rss+xml" title="osmos::feed" href="feed.atom" />
-  <link href="index.css" rel="stylesheet" />
-  <!-- %before-head-end.html% -->
+  <meta name="viewport" content="width=960">
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+  <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.min.css" />
+  <link rel="stylesheet" href="https://sokomin.github.io/styles_top.css" />
+  <link rel="icon" href="https://sokomin.github.io/design/RedStoneLogo.png" sizes="32x32" />
+  <link rel="icon" href="https://sokomin.github.io/design/RedStoneLogo.png" sizes="192x192" />
+  <link rel="apple-touch-icon-precomposed" href="https://sokomin.github.io/design/RedStoneLogo.png" />
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133658114-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-133658114-1');
+  </script>
+  <script type="text/javascript" src="https://sokomin.github.io/design/jquery-3.4.1.min.js"></script>
+  <script>
+    function enter() {
+      if (window.event.keyCode == 13) {
+        var last_keyword = $('#search-field').val();
+        window.location.href = "https://www.google.com/search?hl=ja&hq=inurl:sokomin.github.io&ie=UTF-8&oe=UTF-8&filter=0&q=" + last_keyword;
+      }
+    }
+  </script>
+  <script data-ad-client="ca-pub-2122309953813422" async
+    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script data-ad-client="ca-pub-2122309953813422" async
+    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <style>
+    #view-source {
+      position: fixed;
+      display: block;
+      right: 0;
+      bottom: 0;
+      margin-right: 40px;
+      margin-bottom: 40px;
+      z-index: 900;
+    }
+  </style>
 </head>
 
 <body>
-<!-- %after-body-begin.html% -->
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-01-04">2022-01-04</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.freecodecamp.org/news">freeCodeCamp.org</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">How Web Workers Work in JavaScript – With a Practical JS Example</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/how-webworkers-work-in-javascript-with-example/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(12 min)</span>
-                    <span>In this article, I will walk you through an example that will show you how web workers function in JavaScript with the help of WebSockets.  I think it&#x27;s helpful to work with a practical use case because it is much simpler to understand the concepts when you can relate them</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-01-03">2022-01-03</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">CSS-Based Fingerprinting</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/css-based-fingerprinting/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(3 min)</span>
-                    <span>Fingerprinting is bad. It’s a term that refers to building up enough metadata about a user that you can essentially figure out who they are. JavaScript has access to all sorts of fingerprinting possibilities, which then combined with the IP …
-CSS-Based Fingerprinting originally published on CSS-Tricks</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">How to Create a Browser Extension</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/how-to-create-a-browser-extension/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(15 min)</span>
-                    <span>I’ll bet you are using browser extensions right now. Some of them are extremely popular and useful, like ad blockers, password managers, and PDF viewers. These extensions (or “add-ons”) are not limited to those purposes — you can do a …
-How to Create a Browser Extension originally published on CSS-Tricks</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.freecodecamp.org/news">freeCodeCamp.org</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">HTML Best Practices – How to Build a Better HTML-Based Website</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/html-best-practices/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(6 min)</span>
-                    <span>HTML is the backbone of any website. It&#x27;s the first thing people see. Without it, there would be no website.  Because of this, it&#x27;s important that you stick to good coding practices. If you don&#x27;t follow the best practices, you will create a bad user experience for the web user.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">What is IT Infrastructure? A Beginner&#x27;s Guide</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/what-is-it-infrastructure/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(6 min)</span>
-                    <span>It is difficult to imagine a business that operates without at least some basic IT infrastructure.  Digital solutions and hardware that are linked together help boost a company&#x27;s productivity. And good infrastructure improves internal processes and communication between different departments. IT infrastructure is based on various components that aim to</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">How to Make an Animated Back to Top Button Using Only CSS</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/css-only-back-to-top-button/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(5 min)</span>
-                    <span>Having a &quot;back to top&quot; button on a website is important. It allows users to easily scroll back to the top of the page.  Most websites rely on JavaScript to toggle the visibility of the button based on the amount of scroll. In this post, I will show you how</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Python Tutorial – How to Create a URL Shortener using Flask</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/python-tutorial-how-to-create-a-url-shortener-using-flask/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(12 min)</span>
-                    <span>In this tutorial, we will build a URL shortener using Flask. This tool takes any URL and generates a shorter, more readable version like bit.ly.  The application will allow users to enter a URL and an optional custom short id and generate a shorter version. Here&#x27;s what we&#x27;re going</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Computer Coding – Computer Program Definition and Code Meaning</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/computer-coding-computer-program-definition-and-code-meaning/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(8 min)</span>
-                    <span>When you start learning to code, one of the questions you probably ask yourself is &quot;What lannguage should I learn first?&quot;  One of the most exciting – and at times overwhelming – things about learning to code is just how much there is to learn.  But instead of just focusing</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Learn Java – Free Java Courses for Beginners</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/learn-java-free-java-courses-for-beginners/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>Java is a really popular programming language that has been around for over 25+ years. If you are interested in learning Java, then there are plenty of free online courses to choose from. Java Tutorial for Beginners - Programming with MoshJava Course - SoloLearnJava Programming: Solving Problems with Software -</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">720+ Free Online Programming &amp; Computer Science Courses You Can Start This New Years</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/free-online-programming-cs-courses/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(22 min)</span>
-                    <span>Ten years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, close to 1,000 schools around the world have created thousands of free online courses. I’ve compiled this list of 720+ such free online courses that you can start this month.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.smashingmagazine.com/">Articles on Smashing Magazine — For Web Designers And Developers</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Composition-Based Design System In Figma</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2022/01/composition-based-design-system-figma/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(9 min)</span>
-                    <span>Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-01-02">2022-01-02</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.freecodecamp.org/news">freeCodeCamp.org</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Here are 500+ Ivy League courses you can take online right now for free</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(16 min)</span>
-                    <span>The 8 Ivy League schools are among the most prestigious colleges in the world. They include Brown, Harvard, Cornell, Princeton, Dartmouth, Yale, and Columbia universities, and the University of Pennsylvania. All eight schools place in the top fifteen of the U.S. News and World Report national university rankings. These</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-01-01">2022-01-01</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Thank You (2021 Edition)</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/thank-you-2021-edition/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(10 min)</span>
-                    <span>The year has come to a close and it’s time again for our end-of-year wrapup. The most important message is this: thank you. (thankyouthankyou)
-Thanks for stopping by and reading this site. If you didn’t, I’d be out …
-Thank You (2021 Edition) originally published on CSS-Tricks</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.freecodecamp.org/news">freeCodeCamp.org</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">I uncovered 1,600 Coursera courses that are still completely free</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(56 min)</span>
-                    <span>Are Coursera courses still free? At Class Central, I get that question so often that I wrote a guide to answer it. Generally speaking, Coursera courses are free to audit but if you want to access graded assignments or earn a Course Certificate, you will need to pay. This change</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-12-31">2021-12-31</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Defensive CSS</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/defensive-css/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(3 min)</span>
-                    <span>Ahmad Shadeed nails it again with “Defensive CSS.” The idea is that you should write CSS to be ready for issues caused by dynamic content. 
-More items than you thought would be there? No problem, the area can expand or …
-Defensive CSS originally published on CSS-Tricks</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.smashingmagazine.com/">Articles on Smashing Magazine — For Web Designers And Developers</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">New Year, Fresh Desktop (January 2022 Wallpapers Edition)</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(8 min)</span>
-                    <span>What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-12-30">2021-12-30</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">The Web is More Gooder, and Other Observations on Today’s Web Tech</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/the-web-is-more-gooder-and-other-observations-on-todays-web-tech/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>I’m actually working on a talk (whew! been a while! kinda feels good!) about just how good the world of building websites has gotten. I plan to cover a wide swath of web tech, on purpose, because I …
-The Web is More Gooder, and Other Observations on Today’s Web Tech originally published on CSS-Tricks</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Add Less</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/add-less/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(3 min)</span>
-                    <span>When you’re about to start a new website, what do you think first? Do you start with a library or framework you know, like React or Vue, or a meta-framework on top of that, like Next or Nuxt? Do you …
-Add Less originally published on CSS-Tricks</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">New Age DAM APIs to Simplify Your Media Workflows</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/new-age-dam-apis-to-simplify-your-media-workflows/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(6 min)</span>
-                    <span>(This is a sponsored post.)
-High-velocity, online businesses produce multiple digital assets like banners, images, videos, PDFs, etc., to promote their businesses online. For such businesses, Digital Asset Management (DAM) solutions are essential. These solutions help centrally store, manage, …
-New Age DAM APIs to Simplify Your Media Workflows originally published on CSS-Tricks</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-12-29">2021-12-29</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Empathetic Animation</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/empathetic-animation/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(4 min)</span>
-                    <span>Animation on the web is often a contentious topic. I think, in part, it’s because bad animation is blindingly obvious, whereas well-executed animation fades seamlessly into the background. When handled well, animation can really elevate a website, whether it’s just …
-Empathetic Animation originally published on CSS-Tricks</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">On Yak Shaving and md-block, a new HTML element for Markdown</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/on-yak-shaving-and-md-block-a-new-html-element-for-markdown/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>Lea Verou made a Web Component for processing Markdown. Looks like there were a couple of others out there already, but I agree with Lea in that this is a good use case for the light DOM (as opposed …
-On Yak Shaving and md-block, a new HTML element for Markdown originally published on CSS-Tricks</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.smashingmagazine.com/">Articles on Smashing Magazine — For Web Designers And Developers</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">How To Price Projects And Manage Scope Creep</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(8 min)</span>
-                    <span>Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-12-28">2021-12-28</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Add a Service Worker to Your Site</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/add-a-service-worker-to-your-site/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(10 min)</span>
-                    <span>One of the best things you can do for your website in 2022 is add a service worker, if you don’t have one in place already. Service workers give your website super powers. Today, I want to show you some …
-Add a Service Worker to Your Site originally published on CSS-Tricks</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Our favorite Chrome extensions of 2021</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/our-favorite-chrome-extensions-of-2021/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(4 min)</span>
-                    <span>I hadn’t heard of most of the Chrome extensions that Sarem Gizaw lists as 2021 favorites. Here are my hot takes on all of them, except the virtual learning specific ones that aren’t very relevant to me.
-LoomOh that’s 
-…
-Our favorite Chrome extensions of 2021 originally published on CSS-Tricks</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-12-27">2021-12-27</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Honor prefers-color-scheme in the CSS Paint API with Custom Properties</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/honor-prefers-color-scheme-in-the-css-paint-api-with-custom-properties/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(6 min)</span>
-                    <span>One of the coolest things I’ve been messing with in the last couple years is the CSS Paint API. I love it. I did a talk on it, and made a little gallery of my own paint worklets…
-Honor prefers-color-scheme in the CSS Paint API with Custom Properties originally published on CSS-Tricks</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.smashingmagazine.com/">Articles on Smashing Magazine — For Web Designers And Developers</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Building Gatsby Themes For WordPress-Powered Websites</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(14 min)</span>
-                    <span>Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-12-24">2021-12-24</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Strut Your Stuff With a Custom Scrollbar</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/strut-your-stuff-with-a-custom-scrollbar/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(4 min)</span>
-                    <span>The first time I had my breath taken away by a humble scrollbar was on this very site. When CSS-Tricks v17 rolled out with its FAT CHONKY BOI, my jaw dropped.
-I didn’t know you could do that on …
-Strut Your Stuff With a Custom Scrollbar originally published on CSS-Tricks</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Care for the Text</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/care-for-the-text/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(4 min)</span>
-                    <span>How do you make a great website? Everyone has an answer at the ready: Flashy animations! The latest punk-rock CSS trick! Gradients! Illustrations! Colors to pack a punch! Vite! And, sure, all these things might make a website better. But …
-Care for the Text originally published on CSS-Tricks</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-12-23">2021-12-23</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Remember You Are Not the User</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/remember-you-are-not-the-user/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>One thing people can do to make their websites better is to remember that you are not representative of all your users. Our life experiences and how we interact with the web are not indicative of how everyone interacts with …
-Remember You Are Not the User originally published on CSS-Tricks</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.smashingmagazine.com/">Articles on Smashing Magazine — For Web Designers And Developers</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Creating A Custom Range Input That Looks Consistent Across All Browsers</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(9 min)</span>
-                    <span>Range inputs have notoriously been a pain to style. Each browser renders the input differently requiring you to use vendor prefixes in order to create a cohesive look and feel. In this article, we’ll take a look at the quirkiness of the HTML range input and demonstrate how to style the input to look consistent across all major browsers.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-12-22">2021-12-22</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.smashingmagazine.com/">Articles on Smashing Magazine — For Web Designers And Developers</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Useful UX Guidelines, Tools And Resources</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(14 min)</span>
-                    <span>A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-12-20">2021-12-20</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.smashingmagazine.com/">Articles on Smashing Magazine — For Web Designers And Developers</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Improving Core Web Vitals, A Smashing Magazine Case Study</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(20 min)</span>
-                    <span>How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-12-17">2021-12-17</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.smashingmagazine.com/">Articles on Smashing Magazine — For Web Designers And Developers</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Designing Human-Machine Interfaces For Vehicles Of The Future</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(11 min)</span>
-                    <span>Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(18 min)</span>
-                    <span>In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-12-15">2021-12-15</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.smashingmagazine.com/">Articles on Smashing Magazine — For Web Designers And Developers</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Touch Design For Mobile Interfaces: Defining Mobile Devices (Excerpt)</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(8 min)</span>
-                    <span>Before we can talk about how people interact, much less how to take advantage of that knowledge and design, it’s important to understand a bit about the history, the technology, and what today counts as a mobile touchscreen device at all.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-12-14">2021-12-14</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.smashingmagazine.com/">Articles on Smashing Magazine — For Web Designers And Developers</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Modifying Headers In HTTP(s) Requests In UI Automation Testing</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(7 min)</span>
-                    <span>To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-12-09">2021-12-09</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.smashingmagazine.com/">Articles on Smashing Magazine — For Web Designers And Developers</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Free Christmas Icon Sets And Vector Elements</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(12 min)</span>
-                    <span>Everybody loves a nice freebie, right? To get you in the mood for the upcoming holidays, we collected some winter- and holiday-themed icon sets and vector elements that you can use in your projects for free. Enjoy!</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-12-06">2021-12-06</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.smashingmagazine.com/">Articles on Smashing Magazine — For Web Designers And Developers</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Designing Better Links For Websites And Emails: A Guideline</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(9 min)</span>
-                    <span>There are so many websites out there that have not considered the overall usability of their visually impaired users. When it comes to designing better links and sending better emails, Slava Shestopalov has a few tips on how to improve your website’s experience while accessibility in mind.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
+  <title>韓国赤石 最新情報 赤石の民衆</title>
+  <meta name="description" content="レッドストーン総合攻略情報ポータルページ" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta http-equiv="Content-Script-Type" content="text/javascript" />
+  <meta name="keywords" content="RED STONE ,レッドストーン,赤石の民衆,ＲＥＤ ＳＴＯＮＥ,レッドストーン,赤石,攻略情報" />
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="https://sokomin.github.io/rss.xml" />
+  <link href="index.css" rel="stylesheet" />
 
-  <footer>
-    <time id="build-timestamp" datetime="2022-01-04T03:54:24.636Z">2022-01-04T03:54:24.636Z</time>
-    <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.3</a></span>
-  </footer>
-  <script src="index.js"></script>
-  <!-- %before-body-end.html% -->
+  <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+    <div class="android-header mdl-layout__header mdl-layout__header--waterfall">
+      <div class="mdl-layout__header-row">
+        <span class="android-title mdl-layout-title">
+          <a href="https://sokomin.github.io/index.html">
+            <img class="android-logo-image" src="https://sokomin.github.io/design/logo3.png" />
+          </a>
+        </span>
+        <!-- Add spacer, to align navigation to the right in desktop -->
+        <div class="android-header-spacer mdl-layout-spacer"></div>
+        <div
+          class="android-search-box mdl-textfield mdl-js-textfield mdl-textfield--expandable mdl-textfield--floating-label mdl-textfield--align-right mdl-textfield--full-width">
+          <label class="mdl-button mdl-js-button mdl-button--icon" for="search-field">
+            <i class="material-icons">search</i>
+          </label>
+          <div class="mdl-textfield__expandable-holder">
+            <input placeholder="サイト内検索(Enterで実行)" class="mdl-textfield__input" type="text" onkeypress="enter();"
+              id="search-field" />
+          </div>
+        </div>
+        <!-- Navigation -->
+        <div class="android-navigation-container">
+          <nav class="android-navigation mdl-navigation">
+            <a class="mdl-navigation__link mdl-typography--text-uppercase"
+              href="https://sokomin.github.io/index.html">ホーム</a>
+            <a class="mdl-navigation__link mdl-typography--text-uppercase"
+              href="https://sokomin.github.io/calculator.html">計算機</a>
+            <a class="mdl-navigation__link mdl-typography--text-uppercase"
+              href="https://sokomin.github.io/history.html">赤石史</a>
+            <a class="mdl-navigation__link mdl-typography--text-uppercase"
+              href="https://sokomin.github.io/link.html">リンク</a>
+            <a class="mdl-navigation__link mdl-typography--text-uppercase"
+              href="https://marshmallow-qa.com/sokoranominnsyu">お問合せ</a>
+          </nav>
+        </div>
+        <span class="android-mobile-title mdl-layout-title">
+          <img class="android-logo-image" src="https://sokomin.github.io/design/logo3.png" />
+        </span>
+        <button class="android-more-button mdl-button mdl-js-button mdl-button--icon mdl-js-ripple-effect"
+          id="more-button">
+          <i class="material-icons">more_vert</i>
+        </button>
+        <ul class="mdl-menu mdl-js-menu mdl-menu--bottom-right mdl-js-ripple-effect" for="more-button">
+          <li class="mdl-menu__item"><a class="mdl-navigation__link mdl-typography--text-uppercase"
+              href="https://sokomin.github.io/calculator.html">計算機</a></li>
+          <li class="mdl-menu__item"><a class="mdl-navigation__link mdl-typography--text-uppercase"
+              href="https://sokomin.github.io/history.html">赤石史</a></li>
+          <li disabled class="mdl-menu__item"><a class="mdl-navigation__link mdl-typography--text-uppercase"
+              href="https://sokomin.github.io/link.html">リンク</a></li>
+          <li class="mdl-menu__item"><a class="mdl-navigation__link mdl-typography--text-uppercase"
+              href="https://marshmallow-qa.com/sokoranominnsyu">お問合せ</a></li>
+        </ul>
+
+      </div>
+    </div>
+
+    <div class="android-drawer mdl-layout__drawer">
+      <span class="mdl-layout-title">
+        <h3>メニュー</h3>
+      </span>
+      <nav class="mdl-navigation">
+        <a class="mdl-navigation__link sokomin-layout-item"
+          href="https://sokomin.github.io/item/item.html"><strong>アイテム</strong></a>
+        <a class="mdl-navigation__link sokomin-layout-skill"
+          href="https://sokomin.github.io/skill/skill.html"><strong>スキル</strong></a>
+        <a class="mdl-navigation__link sokomin-layout-pt"
+          href="https://sokomin.github.io/monster/monster.html"><strong>モンスター</strong></a>
+        <a class="mdl-navigation__link sokomin-layout-pt"
+          href="https://sokomin.github.io/secret/secret.html"><strong>ダンジョン</strong></a>
+        <a class="mdl-navigation__link sokomin-layout-quest"
+          href="https://sokomin.github.io/quest/quest.html"><strong>クエスト</strong></a>
+        <a class="mdl-navigation__link sokomin-layout-guild"
+          href="https://sokomin.github.io/guild/guild.html"><strong>ギルド</strong></a>
+        <a class="mdl-navigation__link sokomin-layout-friend"
+          href="https://sokomin.github.io/korea/korea-update.html"><strong>韓国情報</strong></a>
+        <a class="mdl-navigation__link sokomin-layout-info"
+          href="https://sokomin.github.io/information/information.html"><strong>雑学</strong></a>
+      </nav>
+    </div>
+
+    <!--main-->
+    <div class="android-content mdl-layout__content">
+      <div class="main-background mdl-typography--text-center">
+        <section class="top1">
+          <br>
+          <h3>韓国赤石 最新情報</h3>
+          情報収集にお使いください。<br>
+          最終更新：<time class="js-relative-time" datetime="2022-01-04T04:41:20.962Z">2022-01-04T04:41:20.962Z</time>
+          <br>
+          <ul>
+              <section class="day-container">
+                <div>
+                  <div class="date">2022-01-04</div>
+                  <div>
+
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn&#x3D;7507>2021-12-31 | [12월 27일(수) 임시점검 보상 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx>韓国ニュース</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T04:17:46.000Z">2022-01-04T04:17:46.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>アクセスできない時はこちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn&#x3D;7506>2021-12-31 | [12월 31일(금) 특정 서버 접속 불안정 현상 안내] (정상화)</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx>韓国ニュース</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T04:17:45.000Z">2022-01-04T04:17:45.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>アクセスできない時はこちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn&#x3D;7505>2021-12-29 | [2021년 붉은보석 어워드]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx>韓国ニュース</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T04:17:44.000Z">2022-01-04T04:17:44.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>アクセスできない時はこちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn&#x3D;7504>2021-12-29 | [12월 29일(수) 특정 서버 접속 불안정 현상 안내] (정상화)</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx>韓国ニュース</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T04:17:43.000Z">2022-01-04T04:17:43.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>アクセスできない時はこちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn&#x3D;7503>2021-12-28 | [12월 29일(수) 정기점검 일정 관련 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx>韓国ニュース</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T04:17:42.000Z">2022-01-04T04:17:42.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>アクセスできない時はこちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn&#x3D;7502>2021-12-27 | [12월 27일 임시점검 안내] (수정)</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx>韓国ニュース</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T04:17:41.000Z">2022-01-04T04:17:41.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>アクセスできない時はこちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn&#x3D;7501>2021-12-27 | [12월 27일 특정 상황 접속 종료 현상 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx>韓国ニュース</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T04:17:40.000Z">2022-01-04T04:17:40.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>アクセスできない時はこちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn&#x3D;7489>2021-12-26 | [12월 27일 정기점검 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx>韓国ニュース</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T04:17:39.000Z">2022-01-04T04:17:39.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>アクセスできない時はこちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn&#x3D;7487>2021-12-21 | [12월 22일 정기점검 미진행 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx>韓国ニュース</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T04:17:38.000Z">2022-01-04T04:17:38.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>アクセスできない時はこちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn&#x3D;7486>2021-12-17 | [11월 GM 이벤트 3주차 당첨자 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx>韓国ニュース</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T04:17:37.000Z">2022-01-04T04:17:37.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>アクセスできない時はこちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn&#x3D;7485>2021-12-14 | [12월 15일 정기점검 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx>韓国ニュース</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T04:17:36.000Z">2022-01-04T04:17:36.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>アクセスできない時はこちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn&#x3D;7484>2021-12-11 | [12월 11일 주말 핫타임 이벤트 시간 변경 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx>韓国ニュース</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T04:17:35.000Z">2022-01-04T04:17:35.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>アクセスできない時はこちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn&#x3D;7483>2021-12-09 | [11월 복귀자 결제 보상 이벤트 당첨자 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx>韓国ニュース</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T04:17:34.000Z">2022-01-04T04:17:34.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>アクセスできない時はこちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn&#x3D;7482>2021-12-09 | [11월 GM 이벤트 2주차 당첨자 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx>韓国ニュース</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T04:17:33.000Z">2022-01-04T04:17:33.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>アクセスできない時はこちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn&#x3D;7481>2021-12-07 | [12월 8일 정기점검 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx>韓国ニュース</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T04:17:32.000Z">2022-01-04T04:17:32.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>アクセスできない時はこちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn&#x3D;7480>2021-12-02 | [11월 GM 이벤트 1주차 당첨자 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx>韓国ニュース</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T04:17:31.000Z">2022-01-04T04:17:31.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>アクセスできない時はこちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn&#x3D;7477>2021-11-30 | [12월 1일 정기점검 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx>韓国ニュース</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T04:17:30.000Z">2022-01-04T04:17:30.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>アクセスできない時はこちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn&#x3D;7476>2021-11-30 | [신용카드 무이자 행사 안내 - 12월]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx>韓国ニュース</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T04:17:29.000Z">2022-01-04T04:17:29.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>アクセスできない時はこちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn&#x3D;7475>2021-11-25 | [11월 26일 홈페이지 임시점검 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx>韓国ニュース</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T04:17:28.000Z">2022-01-04T04:17:28.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>アクセスできない時はこちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn&#x3D;7474>2021-11-24 | [11월 24일 점검 후 확인된 오류 현상 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx>韓国ニュース</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T04:17:27.000Z">2022-01-04T04:17:27.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>アクセスできない時はこちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn&#x3D;7497>2021-12-27 | [12월 27일 신규 ULT 아이템 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/updateboard/list.aspx>韓国アップデート</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T03:40:18.000Z">2022-01-04T03:40:18.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn&#x3D;7496>2021-12-27 | [12월 27일 신규 DX 아이템 안내] (수정)</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/updateboard/list.aspx>韓国アップデート</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T03:40:17.000Z">2022-01-04T03:40:17.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn&#x3D;7495>2021-12-27 | [12월 열혈 모험가 이벤트 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/updateboard/list.aspx>韓国アップデート</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T03:40:16.000Z">2022-01-04T03:40:16.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn&#x3D;7494>2021-12-27 | [12월 27일 신규 상시판매 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/updateboard/list.aspx>韓国アップデート</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T03:40:15.000Z">2022-01-04T03:40:15.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn&#x3D;7493>2021-12-27 | [12월 27일 신규 한정상품 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/updateboard/list.aspx>韓国アップデート</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T03:40:14.000Z">2022-01-04T03:40:14.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn&#x3D;7492>2021-12-27 | [12월 사냥 이벤트 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/updateboard/list.aspx>韓国アップデート</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T03:40:13.000Z">2022-01-04T03:40:13.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn&#x3D;7491>2021-12-27 | [12월 겨울 이벤트 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/updateboard/list.aspx>韓国アップデート</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T03:40:12.000Z">2022-01-04T03:40:12.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn&#x3D;7490>2021-12-27 | [12월 27일 업데이트 안내] (수정)</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/updateboard/list.aspx>韓国アップデート</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T03:40:11.000Z">2022-01-04T03:40:11.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn&#x3D;7488>2021-12-24 | [크리스마스 GM 이벤트 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/updateboard/list.aspx>韓国アップデート</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T03:40:10.000Z">2022-01-04T03:40:10.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn&#x3D;7479>2021-12-01 | [RS PASS 2 경험치 증가 상품 및 교환 상점 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/updateboard/list.aspx>韓国アップデート</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T03:40:09.000Z">2022-01-04T03:40:09.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn&#x3D;7470>2021-11-24 | [11월 24일 신규 한정상품 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/updateboard/list.aspx>韓国アップデート</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T03:40:08.000Z">2022-01-04T03:40:08.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn&#x3D;7469>2021-11-24 | [11월 당근 할인 판매 이벤트 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/updateboard/list.aspx>韓国アップデート</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T03:40:07.000Z">2022-01-04T03:40:07.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn&#x3D;7468>2021-11-24 | [12월 출석체크 이벤트 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/updateboard/list.aspx>韓国アップデート</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T03:40:06.000Z">2022-01-04T03:40:06.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn&#x3D;7467>2021-11-24 | [11월 복귀자 이벤트 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/updateboard/list.aspx>韓国アップデート</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T03:40:05.000Z">2022-01-04T03:40:05.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn&#x3D;7466>2021-11-24 | [11월 GM이벤트 안내] (수정)</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/updateboard/list.aspx>韓国アップデート</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T03:40:04.000Z">2022-01-04T03:40:04.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn&#x3D;7454>2021-10-27 | [RS Pass 시즌2 안내] (수정)</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/updateboard/list.aspx>韓国アップデート</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T03:40:03.000Z">2022-01-04T03:40:03.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn&#x3D;7453>2021-10-27 | [10월 27일 신규 한정상품 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/updateboard/list.aspx>韓国アップデート</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T03:40:02.000Z">2022-01-04T03:40:02.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn&#x3D;7452>2021-10-27 | [10월 할로윈 이벤트 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/updateboard/list.aspx>韓国アップデート</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T03:40:01.000Z">2022-01-04T03:40:01.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn&#x3D;7451>2021-10-27 | [10월 27일 업데이트 안내] (추가)</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/updateboard/list.aspx>韓国アップデート</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T03:40:00.000Z">2022-01-04T03:40:00.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+                    <article>
+                      <h6><a href=http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn&#x3D;7445>2021-10-13 | [10월 GM 이벤트 안내]</a></h6>
+                      <div><b>
+                          <span><a href=http://redstone.logickorea.co.kr/notice/updateboard/list.aspx>韓国アップデート</a></span> |
+                          <span>更新日: <time class="jst-iso-time" datetime="2022-01-04T03:39:59.000Z">2022-01-04T03:39:59.000Z</time></span> |
+                        </b>
+                      </div>
+                      <p>リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service</p>
+                      </details>
+                      <hr>
+                    </article>
+
+              </section>
+          </ul>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <h3>仕様</h3>
+          <section class="day-container">
+            * 15～30分に一度自動でRSSを拾って反映します。<br>
+          </section>
+          <br>
+          <br>
+          <br>
+          </section>
+          <br>
+          <h3>雑学</h3>
+          <section class="day-container">
+            * レッドストーン公式サイトにおいても、<a
+              href="https://members.redsonline.jp/game_info/community/pickup/scoop.asp?news_seq=18">過去にRSSフィードが掲載されていたことがあります。</a><br>
+            * しかし、<a
+              href="https://members.redsonline.jp/news/maintenance_body.asp?curpage=1&ntc_num=10557">2017/8/30メンテ</a>にてRSS配信が終了しました。<br>
+            <img
+              src="https://image.space.rakuten.co.jp/d/strg/ctrl/9/c0a659953bfa4cfd698e7daab535823a2ed3cb0e.10.9.9.3.png"
+              border="0" name="insertImg" /><br>
+          </section>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <!--main-->
+          <footer class="android-footer mdl-mega-footer">
+            <font color="red">当サイトで利用している画像及びデータは、株式会社ゲームオンに帰属します。<br />
+              許可無くご利用又は転用する事は出来ませんので、予めご了承下さい。<br>
+            </font>
+            Copyright (c) L&K Co., Ltd. All Rights Reserved. License to GameOn Co., Ltd.
+          </footer>
+          <!--書き換え禁止(書かなくてもおｋだが、習慣として書いとく)
+          Copyright (c) This site is created by Sokomin. All Rights Reserved.
+     -->
+      </div>
+      <script src=index.js></script>
+
+      <!-- Convert url in plaintext to clickable link -->
+      <script src="relative-time.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/linkifyjs@3.0.0-beta.3/dist/linkify.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/linkifyjs@3.0.0-beta.3/dist/linkify-element.min.js"></script>
+      <script>document.querySelectorAll("article .details-content").forEach($ => linkifyElement($, { attributes: { target: '_blank', rel: 'noopener noreferrer' } }))</script>
+
+      <script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+    </div>
 </body>
 
 </html>

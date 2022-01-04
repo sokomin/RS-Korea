@@ -1,409 +1,469 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-04T03:54:24.654Z</id>
+    <id>https://sokomin.github.io/RS-RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-04T03:54:24.654Z</updated>
+    <updated>2022-01-04T04:41:20.980Z</updated>
     <generator>osmosfeed 1.11.3</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://sokomin.github.io/RS-RSS/index.html"/>
+    <link rel="self" href="https://sokomin.github.io/RS-RSS/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[How Web Workers Work in JavaScript – With a Practical JS Example]]></title>
-        <id>61cfe874a7001508889339e4</id>
-        <link href="https://www.freecodecamp.org/news/how-webworkers-work-in-javascript-with-example/"/>
-        <updated>2022-01-04T00:31:54.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I will walk you through an example that will show you how web workers function in JavaScript with the help of WebSockets.  I think it's helpful to work with a practical use case because it is much simpler to understand the concepts when you can relate them]]></summary>
+        <title type="html"><![CDATA[2021-12-31 | [12월 27일(수) 임시점검 보상 안내]]]></title>
+        <id>01ad3b39cc175e369db656830d38c0d9</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7507"/>
+        <updated>2022-01-04T04:17:46.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>韓国ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML Best Practices – How to Build a Better HTML-Based Website]]></title>
-        <id>61bd0e47297c7107e8ad859b</id>
-        <link href="https://www.freecodecamp.org/news/html-best-practices/"/>
-        <updated>2022-01-03T23:42:00.000Z</updated>
-        <summary type="html"><![CDATA[HTML is the backbone of any website. It's the first thing people see. Without it, there would be no website.  Because of this, it's important that you stick to good coding practices. If you don't follow the best practices, you will create a bad user experience for the web user.]]></summary>
+        <title type="html"><![CDATA[2021-12-31 | [12월 31일(금) 특정 서버 접속 불안정 현상 안내] (정상화)]]></title>
+        <id>ac3d532c815372614d5a06d0cb901b84</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7506"/>
+        <updated>2022-01-04T04:17:45.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>韓国ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is IT Infrastructure? A Beginner&#x27;s Guide]]></title>
-        <id>61b0b0b1946db661defb8a7c</id>
-        <link href="https://www.freecodecamp.org/news/what-is-it-infrastructure/"/>
-        <updated>2022-01-03T22:24:55.000Z</updated>
-        <summary type="html"><![CDATA[It is difficult to imagine a business that operates without at least some basic IT infrastructure.  Digital solutions and hardware that are linked together help boost a company's productivity. And good infrastructure improves internal processes and communication between different departments. IT infrastructure is based on various components that aim to]]></summary>
+        <title type="html"><![CDATA[2021-12-29 | [2021년 붉은보석 어워드]]]></title>
+        <id>c40f7f5536641159f9099757c1388b79</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7505"/>
+        <updated>2022-01-04T04:17:44.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>韓国ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS-Based Fingerprinting]]></title>
-        <id>https://css-tricks.com/?p=360385</id>
-        <link href="https://css-tricks.com/css-based-fingerprinting/"/>
-        <updated>2022-01-03T21:45:10.000Z</updated>
-        <summary type="html"><![CDATA[Fingerprinting is bad. It’s a term that refers to building up enough metadata about a user that you can essentially figure out who they are. JavaScript has access to all sorts of fingerprinting possibilities, which then combined with the IP …
-CSS-Based Fingerprinting originally published on CSS-Tricks]]></summary>
+        <title type="html"><![CDATA[2021-12-29 | [12월 29일(수) 특정 서버 접속 불안정 현상 안내] (정상화)]]></title>
+        <id>3017779fdd7a6ffb24c87814039cce0b</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7504"/>
+        <updated>2022-01-04T04:17:43.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>韓国ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Make an Animated Back to Top Button Using Only CSS]]></title>
-        <id>61c5d090755c16082490a758</id>
-        <link href="https://www.freecodecamp.org/news/css-only-back-to-top-button/"/>
-        <updated>2022-01-03T21:18:12.000Z</updated>
-        <summary type="html"><![CDATA[Having a "back to top" button on a website is important. It allows users to easily scroll back to the top of the page.  Most websites rely on JavaScript to toggle the visibility of the button based on the amount of scroll. In this post, I will show you how]]></summary>
+        <title type="html"><![CDATA[2021-12-28 | [12월 29일(수) 정기점검 일정 관련 안내]]]></title>
+        <id>6e05f2b0abdfe4638549917d5c05b06b</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7503"/>
+        <updated>2022-01-04T04:17:42.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>韓国ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python Tutorial – How to Create a URL Shortener using Flask]]></title>
-        <id>61c823d0755c16082490af8f</id>
-        <link href="https://www.freecodecamp.org/news/python-tutorial-how-to-create-a-url-shortener-using-flask/"/>
-        <updated>2022-01-03T18:26:36.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we will build a URL shortener using Flask. This tool takes any URL and generates a shorter, more readable version like bit.ly.  The application will allow users to enter a URL and an optional custom short id and generate a shorter version. Here's what we're going]]></summary>
+        <title type="html"><![CDATA[2021-12-27 | [12월 27일 임시점검 안내] (수정)]]></title>
+        <id>90bf2c70c9929320c2f547b2f3dd9a59</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7502"/>
+        <updated>2022-01-04T04:17:41.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>韓国ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Computer Coding – Computer Program Definition and Code Meaning]]></title>
-        <id>61bf7fab297c7107e8ad90d5</id>
-        <link href="https://www.freecodecamp.org/news/computer-coding-computer-program-definition-and-code-meaning/"/>
-        <updated>2022-01-03T17:32:46.000Z</updated>
-        <summary type="html"><![CDATA[When you start learning to code, one of the questions you probably ask yourself is "What lannguage should I learn first?"  One of the most exciting – and at times overwhelming – things about learning to code is just how much there is to learn.  But instead of just focusing]]></summary>
+        <title type="html"><![CDATA[2021-12-27 | [12월 27일 특정 상황 접속 종료 현상 안내]]]></title>
+        <id>dfe413c8c60c44882af409f44e4129f8</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7501"/>
+        <updated>2022-01-04T04:17:40.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>韓国ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Java – Free Java Courses for Beginners]]></title>
-        <id>61b207db946db661defb945e</id>
-        <link href="https://www.freecodecamp.org/news/learn-java-free-java-courses-for-beginners/"/>
-        <updated>2022-01-03T17:06:06.000Z</updated>
-        <summary type="html"><![CDATA[Java is a really popular programming language that has been around for over 25+ years. If you are interested in learning Java, then there are plenty of free online courses to choose from. Java Tutorial for Beginners - Programming with MoshJava Course - SoloLearnJava Programming: Solving Problems with Software -]]></summary>
+        <title type="html"><![CDATA[2021-12-26 | [12월 27일 정기점검 안내]]]></title>
+        <id>72349a58eda528caf58dbcb9b73f4588</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7489"/>
+        <updated>2022-01-04T04:17:39.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>韓国ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[720+ Free Online Programming &amp; Computer Science Courses You Can Start This New Years]]></title>
-        <id>5f9c986d740569d1a4ca1a04</id>
-        <link href="https://www.freecodecamp.org/news/free-online-programming-cs-courses/"/>
-        <updated>2022-01-03T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ten years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, close to 1,000 schools around the world have created thousands of free online courses. I’ve compiled this list of 720+ such free online courses that you can start this month.]]></summary>
+        <title type="html"><![CDATA[2021-12-21 | [12월 22일 정기점검 미진행 안내]]]></title>
+        <id>2b172bb88b65e609012751597d377e9f</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7487"/>
+        <updated>2022-01-04T04:17:38.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>韓国ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create a Browser Extension]]></title>
-        <id>https://css-tricks.com/?p=359615</id>
-        <link href="https://css-tricks.com/how-to-create-a-browser-extension/"/>
-        <updated>2022-01-03T15:12:31.000Z</updated>
-        <summary type="html"><![CDATA[I’ll bet you are using browser extensions right now. Some of them are extremely popular and useful, like ad blockers, password managers, and PDF viewers. These extensions (or “add-ons”) are not limited to those purposes — you can do a …
-How to Create a Browser Extension originally published on CSS-Tricks]]></summary>
+        <title type="html"><![CDATA[2021-12-17 | [11월 GM 이벤트 3주차 당첨자 안내]]]></title>
+        <id>2729a449922c9b30d34264acd03500b9</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7486"/>
+        <updated>2022-01-04T04:17:37.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>Lars Kölker</name>
+            <name>韓国ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Composition-Based Design System In Figma]]></title>
-        <id>https://smashingmagazine.com/2022/01/composition-based-design-system-figma/</id>
-        <link href="https://smashingmagazine.com/2022/01/composition-based-design-system-figma/"/>
-        <updated>2022-01-03T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.]]></summary>
+        <title type="html"><![CDATA[2021-12-14 | [12월 15일 정기점검 안내]]]></title>
+        <id>c7c5a13e9c2d010d8b75a4578d5fd33e</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7485"/>
+        <updated>2022-01-04T04:17:36.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Aleksandra Nagornaia)</name>
+            <name>韓国ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Here are 500+ Ivy League courses you can take online right now for free]]></title>
-        <id>5f9c9e36740569d1a4ca3bed</id>
-        <link href="https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/"/>
-        <updated>2022-01-02T17:49:00.000Z</updated>
-        <summary type="html"><![CDATA[The 8 Ivy League schools are among the most prestigious colleges in the world. They include Brown, Harvard, Cornell, Princeton, Dartmouth, Yale, and Columbia universities, and the University of Pennsylvania. All eight schools place in the top fifteen of the U.S. News and World Report national university rankings. These]]></summary>
+        <title type="html"><![CDATA[2021-12-11 | [12월 11일 주말 핫타임 이벤트 시간 변경 안내]]]></title>
+        <id>972d3636f73542ab0a0860297990b3ef</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7484"/>
+        <updated>2022-01-04T04:17:35.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>韓国ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thank You (2021 Edition)]]></title>
-        <id>https://css-tricks.com/?p=359698</id>
-        <link href="https://css-tricks.com/thank-you-2021-edition/"/>
-        <updated>2022-01-01T17:50:59.000Z</updated>
-        <summary type="html"><![CDATA[The year has come to a close and it’s time again for our end-of-year wrapup. The most important message is this: thank you. (thankyouthankyou)
-Thanks for stopping by and reading this site. If you didn’t, I’d be out …
-Thank You (2021 Edition) originally published on CSS-Tricks]]></summary>
+        <title type="html"><![CDATA[2021-12-09 | [11월 복귀자 결제 보상 이벤트 당첨자 안내]]]></title>
+        <id>885488c4563b17a139021175cd3e831f</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7483"/>
+        <updated>2022-01-04T04:17:34.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>韓国ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I uncovered 1,600 Coursera courses that are still completely free]]></title>
-        <id>5f9c9c40740569d1a4ca30f9</id>
-        <link href="https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/"/>
-        <updated>2022-01-01T08:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Are Coursera courses still free? At Class Central, I get that question so often that I wrote a guide to answer it. Generally speaking, Coursera courses are free to audit but if you want to access graded assignments or earn a Course Certificate, you will need to pay. This change]]></summary>
+        <title type="html"><![CDATA[2021-12-09 | [11월 GM 이벤트 2주차 당첨자 안내]]]></title>
+        <id>53ffde7a57f05f819168138c91a825b7</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7482"/>
+        <updated>2022-01-04T04:17:33.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>韓国ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Defensive CSS]]></title>
-        <id>https://css-tricks.com/?p=360073</id>
-        <link href="https://css-tricks.com/defensive-css/"/>
-        <updated>2021-12-31T18:41:47.000Z</updated>
-        <summary type="html"><![CDATA[Ahmad Shadeed nails it again with “Defensive CSS.” The idea is that you should write CSS to be ready for issues caused by dynamic content. 
-More items than you thought would be there? No problem, the area can expand or …
-Defensive CSS originally published on CSS-Tricks]]></summary>
+        <title type="html"><![CDATA[2021-12-07 | [12월 8일 정기점검 안내]]]></title>
+        <id>a7a1dcd3d61968083291955af7bb5d65</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7481"/>
+        <updated>2022-01-04T04:17:32.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>韓国ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Year, Fresh Desktop (January 2022 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/</id>
-        <link href="https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/"/>
-        <updated>2021-12-31T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.]]></summary>
+        <title type="html"><![CDATA[2021-12-02 | [11월 GM 이벤트 1주차 당첨자 안내]]]></title>
+        <id>e1b68659d604b1bc3495f302e8ac7139</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7480"/>
+        <updated>2022-01-04T04:17:31.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>韓国ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Web is More Gooder, and Other Observations on Today’s Web Tech]]></title>
-        <id>https://css-tricks.com/?p=359941</id>
-        <link href="https://css-tricks.com/the-web-is-more-gooder-and-other-observations-on-todays-web-tech/"/>
-        <updated>2021-12-30T20:08:07.000Z</updated>
-        <summary type="html"><![CDATA[I’m actually working on a talk (whew! been a while! kinda feels good!) about just how good the world of building websites has gotten. I plan to cover a wide swath of web tech, on purpose, because I …
-The Web is More Gooder, and Other Observations on Today’s Web Tech originally published on CSS-Tricks]]></summary>
+        <title type="html"><![CDATA[2021-11-30 | [12월 1일 정기점검 안내]]]></title>
+        <id>360d6a1f5c635d378df03b878a00153a</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7477"/>
+        <updated>2022-01-04T04:17:30.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>韓国ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Add Less]]></title>
-        <id>https://css-tricks.com/?p=359729</id>
-        <link href="https://css-tricks.com/add-less/"/>
-        <updated>2021-12-30T16:23:29.000Z</updated>
-        <summary type="html"><![CDATA[When you’re about to start a new website, what do you think first? Do you start with a library or framework you know, like React or Vue, or a meta-framework on top of that, like Next or Nuxt? Do you …
-Add Less originally published on CSS-Tricks]]></summary>
+        <title type="html"><![CDATA[2021-11-30 | [신용카드 무이자 행사 안내 - 12월]]]></title>
+        <id>3436d33993f7e3b5b85d310c2d1e6a31</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7476"/>
+        <updated>2022-01-04T04:17:29.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>Cassidy Williams</name>
+            <name>韓国ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Age DAM APIs to Simplify Your Media Workflows]]></title>
-        <id>https://css-tricks.com/?p=359708</id>
-        <link href="https://css-tricks.com/new-age-dam-apis-to-simplify-your-media-workflows/"/>
-        <updated>2021-12-30T16:18:38.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-High-velocity, online businesses produce multiple digital assets like banners, images, videos, PDFs, etc., to promote their businesses online. For such businesses, Digital Asset Management (DAM) solutions are essential. These solutions help centrally store, manage, …
-New Age DAM APIs to Simplify Your Media Workflows originally published on CSS-Tricks]]></summary>
+        <title type="html"><![CDATA[2021-11-25 | [11월 26일 홈페이지 임시점검 안내]]]></title>
+        <id>03f1ad3e1fbec1becdb965703c04fe2f</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7475"/>
+        <updated>2022-01-04T04:17:28.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>ImageKit</name>
+            <name>韓国ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Empathetic Animation]]></title>
-        <id>https://css-tricks.com/?p=358975</id>
-        <link href="https://css-tricks.com/empathetic-animation/"/>
-        <updated>2021-12-29T16:04:16.000Z</updated>
-        <summary type="html"><![CDATA[Animation on the web is often a contentious topic. I think, in part, it’s because bad animation is blindingly obvious, whereas well-executed animation fades seamlessly into the background. When handled well, animation can really elevate a website, whether it’s just …
-Empathetic Animation originally published on CSS-Tricks]]></summary>
+        <title type="html"><![CDATA[2021-11-24 | [11월 24일 점검 후 확인된 오류 현상 안내]]]></title>
+        <id>f0a9f0522aad891ef40c5cae97ad6578</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7474"/>
+        <updated>2022-01-04T04:17:27.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>Cassie Evans</name>
+            <name>韓国ニュース</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On Yak Shaving and md-block, a new HTML element for Markdown]]></title>
-        <id>https://css-tricks.com/?p=359938</id>
-        <link href="https://css-tricks.com/on-yak-shaving-and-md-block-a-new-html-element-for-markdown/"/>
-        <updated>2021-12-29T16:03:44.000Z</updated>
-        <summary type="html"><![CDATA[Lea Verou made a Web Component for processing Markdown. Looks like there were a couple of others out there already, but I agree with Lea in that this is a good use case for the light DOM (as opposed …
-On Yak Shaving and md-block, a new HTML element for Markdown originally published on CSS-Tricks]]></summary>
+        <title type="html"><![CDATA[2021-12-27 | [12월 27일 신규 ULT 아이템 안내]]]></title>
+        <id>afc9ea383351dae643b2512bb7e91ebb</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7497"/>
+        <updated>2022-01-04T03:40:18.000Z</updated>
+        <summary type="html"><![CDATA[リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>韓国アップデート</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Price Projects And Manage Scope Creep]]></title>
-        <id>https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/</id>
-        <link href="https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/"/>
-        <updated>2021-12-29T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.]]></summary>
+        <title type="html"><![CDATA[2021-12-27 | [12월 27일 신규 DX 아이템 안내] (수정)]]></title>
+        <id>8934abeaabb50c611fa493a23268a4c4</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7496"/>
+        <updated>2022-01-04T03:40:17.000Z</updated>
+        <summary type="html"><![CDATA[リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
+            <name>韓国アップデート</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Add a Service Worker to Your Site]]></title>
-        <id>https://css-tricks.com/?p=359055</id>
-        <link href="https://css-tricks.com/add-a-service-worker-to-your-site/"/>
-        <updated>2021-12-28T16:14:23.000Z</updated>
-        <summary type="html"><![CDATA[One of the best things you can do for your website in 2022 is add a service worker, if you don’t have one in place already. Service workers give your website super powers. Today, I want to show you some …
-Add a Service Worker to Your Site originally published on CSS-Tricks]]></summary>
+        <title type="html"><![CDATA[2021-12-27 | [12월 열혈 모험가 이벤트 안내]]]></title>
+        <id>8a88ecd0ae447ce5ed94216bbdcef8ab</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7495"/>
+        <updated>2022-01-04T03:40:16.000Z</updated>
+        <summary type="html"><![CDATA[リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>Chris Ferdinandi</name>
+            <name>韓国アップデート</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Our favorite Chrome extensions of 2021]]></title>
-        <id>https://css-tricks.com/?p=359860</id>
-        <link href="https://css-tricks.com/our-favorite-chrome-extensions-of-2021/"/>
-        <updated>2021-12-28T16:11:35.000Z</updated>
-        <summary type="html"><![CDATA[I hadn’t heard of most of the Chrome extensions that Sarem Gizaw lists as 2021 favorites. Here are my hot takes on all of them, except the virtual learning specific ones that aren’t very relevant to me.
-LoomOh that’s 
-…
-Our favorite Chrome extensions of 2021 originally published on CSS-Tricks]]></summary>
+        <title type="html"><![CDATA[2021-12-27 | [12월 27일 신규 상시판매 안내]]]></title>
+        <id>b9ce3050c0f94797ab0ffd49aa6e366e</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7494"/>
+        <updated>2022-01-04T03:40:15.000Z</updated>
+        <summary type="html"><![CDATA[リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>韓国アップデート</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Honor prefers-color-scheme in the CSS Paint API with Custom Properties]]></title>
-        <id>https://css-tricks.com/?p=359044</id>
-        <link href="https://css-tricks.com/honor-prefers-color-scheme-in-the-css-paint-api-with-custom-properties/"/>
-        <updated>2021-12-27T14:39:00.000Z</updated>
-        <summary type="html"><![CDATA[One of the coolest things I’ve been messing with in the last couple years is the CSS Paint API. I love it. I did a talk on it, and made a little gallery of my own paint worklets…
-Honor prefers-color-scheme in the CSS Paint API with Custom Properties originally published on CSS-Tricks]]></summary>
+        <title type="html"><![CDATA[2021-12-27 | [12월 27일 신규 한정상품 안내]]]></title>
+        <id>e60b9cda3d2603dd5d46573a7a582e64</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7493"/>
+        <updated>2022-01-04T03:40:14.000Z</updated>
+        <summary type="html"><![CDATA[リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>Jeremy Wagner</name>
+            <name>韓国アップデート</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Gatsby Themes For WordPress-Powered Websites]]></title>
-        <id>https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/</id>
-        <link href="https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/"/>
-        <updated>2021-12-27T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.]]></summary>
+        <title type="html"><![CDATA[2021-12-27 | [12월 사냥 이벤트 안내]]]></title>
+        <id>6bac9bec06ef78bc1ba41f683b394069</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7492"/>
+        <updated>2022-01-04T03:40:13.000Z</updated>
+        <summary type="html"><![CDATA[リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Paulina Hetman)</name>
+            <name>韓国アップデート</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Strut Your Stuff With a Custom Scrollbar]]></title>
-        <id>https://css-tricks.com/?p=358956</id>
-        <link href="https://css-tricks.com/strut-your-stuff-with-a-custom-scrollbar/"/>
-        <updated>2021-12-24T22:58:49.000Z</updated>
-        <summary type="html"><![CDATA[The first time I had my breath taken away by a humble scrollbar was on this very site. When CSS-Tricks v17 rolled out with its FAT CHONKY BOI, my jaw dropped.
-I didn’t know you could do that on …
-Strut Your Stuff With a Custom Scrollbar originally published on CSS-Tricks]]></summary>
+        <title type="html"><![CDATA[2021-12-27 | [12월 겨울 이벤트 안내]]]></title>
+        <id>50b0d6d8e049d433586fb4a7135a52c7</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7491"/>
+        <updated>2022-01-04T03:40:12.000Z</updated>
+        <summary type="html"><![CDATA[リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>Shawn Wang</name>
+            <name>韓国アップデート</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Care for the Text]]></title>
-        <id>https://css-tricks.com/?p=358565</id>
-        <link href="https://css-tricks.com/care-for-the-text/"/>
-        <updated>2021-12-24T12:33:11.000Z</updated>
-        <summary type="html"><![CDATA[How do you make a great website? Everyone has an answer at the ready: Flashy animations! The latest punk-rock CSS trick! Gradients! Illustrations! Colors to pack a punch! Vite! And, sure, all these things might make a website better. But …
-Care for the Text originally published on CSS-Tricks]]></summary>
+        <title type="html"><![CDATA[2021-12-27 | [12월 27일 업데이트 안내] (수정)]]></title>
+        <id>d4746ec549001f986cf6a28ed313687d</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7490"/>
+        <updated>2022-01-04T03:40:11.000Z</updated>
+        <summary type="html"><![CDATA[リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>Robin Rendle</name>
+            <name>韓国アップデート</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remember You Are Not the User]]></title>
-        <id>https://css-tricks.com/?p=358936</id>
-        <link href="https://css-tricks.com/remember-you-are-not-the-user/"/>
-        <updated>2021-12-23T19:31:04.000Z</updated>
-        <summary type="html"><![CDATA[One thing people can do to make their websites better is to remember that you are not representative of all your users. Our life experiences and how we interact with the web are not indicative of how everyone interacts with …
-Remember You Are Not the User originally published on CSS-Tricks]]></summary>
+        <title type="html"><![CDATA[2021-12-24 | [크리스마스 GM 이벤트 안내]]]></title>
+        <id>672605558955ed1bcdae7e3bc7fd9f03</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7488"/>
+        <updated>2022-01-04T03:40:10.000Z</updated>
+        <summary type="html"><![CDATA[リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>Emma Bostian</name>
+            <name>韓国アップデート</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating A Custom Range Input That Looks Consistent Across All Browsers]]></title>
-        <id>https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/</id>
-        <link href="https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/"/>
-        <updated>2021-12-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Range inputs have notoriously been a pain to style. Each browser renders the input differently requiring you to use vendor prefixes in order to create a cohesive look and feel. In this article, we’ll take a look at the quirkiness of the HTML range input and demonstrate how to style the input to look consistent across all major browsers.]]></summary>
+        <title type="html"><![CDATA[2021-12-01 | [RS PASS 2 경험치 증가 상품 및 교환 상점 안내]]]></title>
+        <id>e43a1e29f8b266ef0bd7cb94550becc4</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7479"/>
+        <updated>2022-01-04T03:40:09.000Z</updated>
+        <summary type="html"><![CDATA[リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Alyssa Holland)</name>
+            <name>韓国アップデート</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Useful UX Guidelines, Tools And Resources]]></title>
-        <id>https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/</id>
-        <link href="https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/"/>
-        <updated>2021-12-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.]]></summary>
+        <title type="html"><![CDATA[2021-11-24 | [11월 24일 신규 한정상품 안내]]]></title>
+        <id>e81ce0cfb77d01c2add83d63a1e1a83d</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7470"/>
+        <updated>2022-01-04T03:40:08.000Z</updated>
+        <summary type="html"><![CDATA[リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>韓国アップデート</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Improving Core Web Vitals, A Smashing Magazine Case Study]]></title>
-        <id>https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/</id>
-        <link href="https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/"/>
-        <updated>2021-12-20T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.]]></summary>
+        <title type="html"><![CDATA[2021-11-24 | [11월 당근 할인 판매 이벤트 안내]]]></title>
+        <id>01870d3c518757557b6c23e16fba5182</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7469"/>
+        <updated>2022-01-04T03:40:07.000Z</updated>
+        <summary type="html"><![CDATA[リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+            <name>韓国アップデート</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Designing Human-Machine Interfaces For Vehicles Of The Future]]></title>
-        <id>https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/</id>
-        <link href="https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/"/>
-        <updated>2021-12-17T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.]]></summary>
+        <title type="html"><![CDATA[2021-11-24 | [12월 출석체크 이벤트 안내]]]></title>
+        <id>abf65af39f9588e3ba1d1eabc6b5e9bd</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7468"/>
+        <updated>2022-01-04T03:40:06.000Z</updated>
+        <summary type="html"><![CDATA[リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Nick Babich &amp; Gleb Kuznetsov)</name>
+            <name>韓国アップデート</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions]]></title>
-        <id>https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/</id>
-        <link href="https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/"/>
-        <updated>2021-12-17T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.]]></summary>
+        <title type="html"><![CDATA[2021-11-24 | [11월 복귀자 이벤트 안내]]]></title>
+        <id>b2c8e0fdde2113bc84a7b7690a20cb78</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7467"/>
+        <updated>2022-01-04T03:40:05.000Z</updated>
+        <summary type="html"><![CDATA[リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Nwani Victory)</name>
+            <name>韓国アップデート</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Touch Design For Mobile Interfaces: Defining Mobile Devices (Excerpt)]]></title>
-        <id>https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/</id>
-        <link href="https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/"/>
-        <updated>2021-12-15T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Before we can talk about how people interact, much less how to take advantage of that knowledge and design, it’s important to understand a bit about the history, the technology, and what today counts as a mobile touchscreen device at all.]]></summary>
+        <title type="html"><![CDATA[2021-11-24 | [11월 GM이벤트 안내] (수정)]]></title>
+        <id>f518ab6fc765263ad1bcb008820ca335</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7466"/>
+        <updated>2022-01-04T03:40:04.000Z</updated>
+        <summary type="html"><![CDATA[リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Steven Hoober)</name>
+            <name>韓国アップデート</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Modifying Headers In HTTP(s) Requests In UI Automation Testing]]></title>
-        <id>https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/</id>
-        <link href="https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/"/>
-        <updated>2021-12-14T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.]]></summary>
+        <title type="html"><![CDATA[2021-10-27 | [RS Pass 시즌2 안내] (수정)]]></title>
+        <id>1a2966b61b6fb9ca1796a462e61477ad</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7454"/>
+        <updated>2022-01-04T03:40:03.000Z</updated>
+        <summary type="html"><![CDATA[リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Nafees Nehar)</name>
+            <name>韓国アップデート</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Free Christmas Icon Sets And Vector Elements]]></title>
-        <id>https://smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/</id>
-        <link href="https://smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/"/>
-        <updated>2021-12-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Everybody loves a nice freebie, right? To get you in the mood for the upcoming holidays, we collected some winter- and holiday-themed icon sets and vector elements that you can use in your projects for free. Enjoy!]]></summary>
+        <title type="html"><![CDATA[2021-10-27 | [10월 27일 신규 한정상품 안내]]]></title>
+        <id>837737be6edf12c4ef31cb6036c79787</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7453"/>
+        <updated>2022-01-04T03:40:02.000Z</updated>
+        <summary type="html"><![CDATA[リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>韓国アップデート</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Designing Better Links For Websites And Emails: A Guideline]]></title>
-        <id>https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/</id>
-        <link href="https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/"/>
-        <updated>2021-12-06T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There are so many websites out there that have not considered the overall usability of their visually impaired users. When it comes to designing better links and sending better emails, Slava Shestopalov has a few tips on how to improve your website’s experience while accessibility in mind.]]></summary>
+        <title type="html"><![CDATA[2021-10-27 | [10월 할로윈 이벤트 안내]]]></title>
+        <id>bc22f391fbe06304cfb7d7e601fe4764</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7452"/>
+        <updated>2022-01-04T03:40:01.000Z</updated>
+        <summary type="html"><![CDATA[リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Slava Shestopalov)</name>
+            <name>韓国アップデート</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-10-27 | [10월 27일 업데이트 안내] (추가)]]></title>
+        <id>d7d6ed29bb163af4c63f98af82854fe2</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7451"/>
+        <updated>2022-01-04T03:40:00.000Z</updated>
+        <summary type="html"><![CDATA[リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国アップデート</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-10-13 | [10월 GM 이벤트 안내]]]></title>
+        <id>e441bef17918cb301216eb95288b6580</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7445"/>
+        <updated>2022-01-04T03:39:59.000Z</updated>
+        <summary type="html"><![CDATA[リンク先につながらない人は
+こちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国アップデート</name>
         </author>
     </entry>
 </feed>
