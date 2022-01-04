@@ -40,12 +40,11 @@ document.querySelectorAll(".jst-iso-time").forEach((timeElement) => {
 });
 
 document.querySelectorAll(".js-translated-url").forEach((e) => {
-    // 要素への参照を取得
-    // var textMsg = document.getElementByClass('js-translated-url');
-    // コンソールにテキストを表示
     console.log(e.textContent);
     if(String(e.textContent)){
-        var num = String(e.textContent).slice( -4 );
-        timeElement.textContent = 'アクセスできない時は<a href="https://sokomin.github.io/korea-info/out/origin_front/'+ num +'">こちら</a>'
+        // そのうち5桁になる可能性があるので注意
+        // var num = String(e.textContent).slice( -4 );
+        var num = String(e.textContent).match(/[0-9]*$/)[0]|0;
+        e.innerHTML = 'アクセスできない時は<a href="https://sokomin.github.io/korea-info/out/origin_front/'+ num +'">こちら</a>'
     }
 });
