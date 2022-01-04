@@ -4,7 +4,8 @@ sources:
 #   - href: https://css-tricks.com/feed/
 #   - href: https://www.smashingmagazine.com/feed/
 #   - href: https://www.freecodecamp.org/news/rss/
-  - href: https://node2.feed43.com/6767142215022685.xml #アプデ
+  # - href: https://node2.feed43.com/6767142215022685.xml #アプデ
+  - href: https://node2.feed43.com/7845343467823758.xml　 #アプデ新
   - href: https://node2.feed43.com/0750874822243831.xml #ニュース
 
 # 1年以上前のデータはいらない
