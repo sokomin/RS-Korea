@@ -1,4 +1,4 @@
-cacheUrl: https://sokomin.github.io/RS-RSS/cache.json
+cacheUrl: https://sokomin.github.io/RS-Korea/cache.json
 sources:
   # - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
 #   - href: https://css-tricks.com/feed/
@@ -6,3 +6,6 @@ sources:
 #   - href: https://www.freecodecamp.org/news/rss/
   - href: https://node2.feed43.com/6767142215022685.xml #アプデ
   - href: https://node2.feed43.com/0750874822243831.xml #ニュース
+
+# 1年以上前のデータはいらない
+cacheMaxDays: 365
