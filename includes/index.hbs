@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<!--
+  Material Design Lite
+  Copyright 2015 Google Inc. All rights reserved.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      https://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License
+-->
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=960">
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+  <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.min.css" />
+  <link rel="stylesheet" href="https://sokomin.github.io/styles_top.css" />
+  <link rel="icon" href="https://sokomin.github.io/design/RedStoneLogo.png" sizes="32x32" />
+  <link rel="icon" href="https://sokomin.github.io/design/RedStoneLogo.png" sizes="192x192" />
+  <link rel="apple-touch-icon-precomposed" href="https://sokomin.github.io/design/RedStoneLogo.png" />
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133658114-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-133658114-1');
+  </script>
+  <script type="text/javascript" src="https://sokomin.github.io/design/jquery-3.4.1.min.js"></script>
+  <script>
+    function enter() {
+      if (window.event.keyCode == 13) {
+        var last_keyword = $('#search-field').val();
+        window.location.href = "https://www.google.com/search?hl=ja&hq=inurl:sokomin.github.io&ie=UTF-8&oe=UTF-8&filter=0&q=" + last_keyword;
+      }
+    }
+  </script>
+  <script data-ad-client="ca-pub-2122309953813422" async
+    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script data-ad-client="ca-pub-2122309953813422" async
+    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <style>
+    #view-source {
+      position: fixed;
+      display: block;
+      right: 0;
+      bottom: 0;
+      margin-right: 40px;
+      margin-bottom: 40px;
+      z-index: 900;
+    }
+  </style>
+</head>
+
+<body>
+  <title>韓国赤石 最新情報 赤石の民衆</title>
+  <meta name="description" content="レッドストーン総合攻略情報ポータルページ" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta http-equiv="Content-Script-Type" content="text/javascript" />
+  <meta name="keywords" content="RED STONE ,レッドストーン,赤石の民衆,ＲＥＤ ＳＴＯＮＥ,レッドストーン,赤石,攻略情報" />
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="https://sokomin.github.io/rss.xml" />
+  <link href="index.css" rel="stylesheet" />
+
+  <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+    <div class="android-header mdl-layout__header mdl-layout__header--waterfall">
+      <div class="mdl-layout__header-row">
+        <span class="android-title mdl-layout-title">
+          <a href="https://sokomin.github.io/index.html">
+            <img class="android-logo-image" src="https://sokomin.github.io/design/logo3.png" />
+          </a>
+        </span>
+        <!-- Add spacer, to align navigation to the right in desktop -->
+        <div class="android-header-spacer mdl-layout-spacer"></div>
+        <div
+          class="android-search-box mdl-textfield mdl-js-textfield mdl-textfield--expandable mdl-textfield--floating-label mdl-textfield--align-right mdl-textfield--full-width">
+          <label class="mdl-button mdl-js-button mdl-button--icon" for="search-field">
+            <i class="material-icons">search</i>
+          </label>
+          <div class="mdl-textfield__expandable-holder">
+            <input placeholder="サイト内検索(Enterで実行)" class="mdl-textfield__input" type="text" onkeypress="enter();"
+              id="search-field" />
+          </div>
+        </div>
+        <!-- Navigation -->
+        <div class="android-navigation-container">
+          <nav class="android-navigation mdl-navigation">
+            <a class="mdl-navigation__link mdl-typography--text-uppercase"
+              href="https://sokomin.github.io/index.html">ホーム</a>
+            <a class="mdl-navigation__link mdl-typography--text-uppercase"
+              href="https://sokomin.github.io/calculator.html">計算機</a>
+            <a class="mdl-navigation__link mdl-typography--text-uppercase"
+              href="https://sokomin.github.io/history.html">赤石史</a>
+            <a class="mdl-navigation__link mdl-typography--text-uppercase"
+              href="https://sokomin.github.io/link.html">リンク</a>
+            <a class="mdl-navigation__link mdl-typography--text-uppercase"
+              href="https://marshmallow-qa.com/sokoranominnsyu">お問合せ</a>
+          </nav>
+        </div>
+        <span class="android-mobile-title mdl-layout-title">
+          <img class="android-logo-image" src="https://sokomin.github.io/design/logo3.png" />
+        </span>
+        <button class="android-more-button mdl-button mdl-js-button mdl-button--icon mdl-js-ripple-effect"
+          id="more-button">
+          <i class="material-icons">more_vert</i>
+        </button>
+        <ul class="mdl-menu mdl-js-menu mdl-menu--bottom-right mdl-js-ripple-effect" for="more-button">
+          <li class="mdl-menu__item"><a class="mdl-navigation__link mdl-typography--text-uppercase"
+              href="https://sokomin.github.io/calculator.html">計算機</a></li>
+          <li class="mdl-menu__item"><a class="mdl-navigation__link mdl-typography--text-uppercase"
+              href="https://sokomin.github.io/history.html">赤石史</a></li>
+          <li disabled class="mdl-menu__item"><a class="mdl-navigation__link mdl-typography--text-uppercase"
+              href="https://sokomin.github.io/link.html">リンク</a></li>
+          <li class="mdl-menu__item"><a class="mdl-navigation__link mdl-typography--text-uppercase"
+              href="https://marshmallow-qa.com/sokoranominnsyu">お問合せ</a></li>
+        </ul>
+
+      </div>
+    </div>
+
+    <div class="android-drawer mdl-layout__drawer">
+      <span class="mdl-layout-title">
+        <h3>メニュー</h3>
+      </span>
+      <nav class="mdl-navigation">
+        <a class="mdl-navigation__link sokomin-layout-item"
+          href="https://sokomin.github.io/item/item.html"><strong>アイテム</strong></a>
+        <a class="mdl-navigation__link sokomin-layout-skill"
+          href="https://sokomin.github.io/skill/skill.html"><strong>スキル</strong></a>
+        <a class="mdl-navigation__link sokomin-layout-pt"
+          href="https://sokomin.github.io/monster/monster.html"><strong>モンスター</strong></a>
+        <a class="mdl-navigation__link sokomin-layout-pt"
+          href="https://sokomin.github.io/secret/secret.html"><strong>ダンジョン</strong></a>
+        <a class="mdl-navigation__link sokomin-layout-quest"
+          href="https://sokomin.github.io/quest/quest.html"><strong>クエスト</strong></a>
+        <a class="mdl-navigation__link sokomin-layout-guild"
+          href="https://sokomin.github.io/guild/guild.html"><strong>ギルド</strong></a>
+        <a class="mdl-navigation__link sokomin-layout-friend"
+          href="https://sokomin.github.io/korea/korea-update.html"><strong>韓国情報</strong></a>
+        <a class="mdl-navigation__link sokomin-layout-info"
+          href="https://sokomin.github.io/information/information.html"><strong>雑学</strong></a>
+      </nav>
+    </div>
+
+    <!--main-->
+    <div class="android-content mdl-layout__content">
+      <div class="main-background mdl-typography--text-center">
+        <section class="top1">
+          <br>
+          <h3>韓国赤石 最新情報</h3>
+          情報収集にお使いください。<br>
+          最終更新：<time class="js-relative-time" datetime="{{siteBuildTimestamp}}">{{siteBuildTimestamp}}</time>
+          <br>
+          <ul>
+            {{#each dates}}
+            {{!-- <li> --}}
+              <section class="day-container">
+                <div>
+                  <div class="date">{{isoPublishDate}}</div>
+                  <div>
+
+                    {{#each articles}}
+                    <article>
+                      <h6><a href={{link}}>{{title}}</a></h6>
+                      <div><b>
+                          <span><a href={{source.siteUrl}}>{{source.title}}</a></span> |
+                          {{!-- <span>Date: <time>{{isoPublishDate}}</time></span> | --}}
+                          <span>更新日: <time class="jst-iso-time" datetime="{{publishedOn}}">{{publishedOn}}</time></span> |
+                          {{!-- <span>読了目安時間: <time>{{readingTimeInMin}} min</time></span> | --}}
+                          {{!-- <span>文字数: <time>{{wordCount}}</time></span> --}}
+                        </b>
+                      </div>
+                      <p>{{description}}</p>
+                      </details>
+                      <hr>
+                    </article>
+                    {{/each}}
+
+              </section>
+              {{!--
+            </li> --}}
+            {{/each}}
+          </ul>
+          {{!-- {{#each dates}}
+          <section class="day-container">
+            <div class="date">{{isoPublishDate}}</div>
+
+            {{#each articles}}
+            <article>
+              <details>
+                <Summary>{{title}}</Summary>
+                <div class="details-content">
+                  <p>{{description}}</p>
+                  <div class="button">
+                    <a href={{link}} target="_blank" rel="noopener noreferrer">Read · {{readingTimeInMin}} min</a>
+                  </div>
+                </div </details>
+            </article>
+            {{/each}}
+
+          </section>
+          {{/each}} --}}
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <h3>仕様</h3>
+          <section class="day-container">
+            * 15～30分に一度自動でRSSを拾って反映します。<br>
+            {{!-- * 直近1か月以内に更新された記事 or 1サイトにおけるRSSの上限記事数を収集します。<br>
+            * youtube動画, ブログ, webサイトが掲載対象です。Twitterについては検討中。<br> --}}
+          </section>
+          <br>
+          <br>
+          <br>
+          {{!-- <h3>追加/解除希望の手続方法</h3>
+          <section class="day-container">
+            * <a href="https://discord.gg/Cehjnzd">レッドストーン総合交流Discord</a>にて追加希望サイトを募集するチャンネルを用意しましたので、そちらより申請お願いします。<br>
+            * 登録解除についても同様です。<br>
+            * 「REDSTONE以外のブログも書きたい！」という方のために将来的には対象サイトにおける記事のタイトルに「REDSTONE」「レッドストーン」等が含まれている記事のみ<br>
+            　　ピックアップできる機能を追加するかもしれません。(現時点では実装時期未定)<br> --}}
+            {{!-- 技術班求む --}}
+          </section>
+          <br>
+          <h3>雑学</h3>
+          <section class="day-container">
+            * レッドストーン公式サイトにおいても、<a
+              href="https://members.redsonline.jp/game_info/community/pickup/scoop.asp?news_seq=18">過去にRSSフィードが掲載されていたことがあります。</a><br>
+            * しかし、<a
+              href="https://members.redsonline.jp/news/maintenance_body.asp?curpage=1&ntc_num=10557">2017/8/30メンテ</a>にてRSS配信が終了しました。<br>
+            <img
+              src="https://image.space.rakuten.co.jp/d/strg/ctrl/9/c0a659953bfa4cfd698e7daab535823a2ed3cb0e.10.9.9.3.png"
+              border="0" name="insertImg" /><br>
+          </section>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <!--main-->
+          <footer class="android-footer mdl-mega-footer">
+            <font color="red">当サイトで利用している画像及びデータは、株式会社ゲームオンに帰属します。<br />
+              許可無くご利用又は転用する事は出来ませんので、予めご了承下さい。<br>
+            </font>
+            Copyright (c) L&K Co., Ltd. All Rights Reserved. License to GameOn Co., Ltd.
+          </footer>
+          <!--書き換え禁止(書かなくてもおｋだが、習慣として書いとく)
+          Copyright (c) This site is created by Sokomin. All Rights Reserved.
+     -->
+      </div>
+      <script src=index.js></script>
+
+      <!-- Convert url in plaintext to clickable link -->
+      <script src="relative-time.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/linkifyjs@3.0.0-beta.3/dist/linkify.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/linkifyjs@3.0.0-beta.3/dist/linkify-element.min.js"></script>
+      <script>document.querySelectorAll("article .details-content").forEach($ => linkifyElement($, { attributes: { target: '_blank', rel: 'noopener noreferrer' } }))</script>
+
+      <script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+    </div>
+</body>
+
+</html>
