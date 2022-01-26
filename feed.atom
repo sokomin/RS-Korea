@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-Korea/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-26T05:30:54.422Z</updated>
+    <updated>2022-01-26T05:46:02.081Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-Korea/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-Korea/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[11:34 | [설맞이 GM 이벤트] | 7516]]></title>
+        <id>4f71c407b99f404bd034647d374af9a8</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7516"/>
+        <updated>2022-01-26T05:45:54.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない場合はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国アップデート</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11:30 | [1월 26일 신규 한정상품 판매 안내] | 7515]]></title>
+        <id>98e9353656732864742fe54f73d2ca4e</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7515"/>
+        <updated>2022-01-26T05:45:53.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない場合はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国アップデート</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11:24 | [RS PASS 시즌3 안내] | 7514]]></title>
+        <id>91cde144fac0320925784aade73e7377</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7514"/>
+        <updated>2022-01-26T05:45:52.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない場合はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国アップデート</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[18:23 | [1월 26일 정기점검 안내] | 7513]]></title>
         <id>9461224e5bc4fc545b70e45d03c279db</id>
