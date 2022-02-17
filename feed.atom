@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-Korea/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-17T05:30:52.113Z</updated>
+    <updated>2022-02-17T05:45:49.341Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-Korea/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-Korea/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[13:58 | [1월 설맞이 GM 이벤트 3주차 당첨자 안내] | 7527]]></title>
+        <id>02f051a8dde65b61c9e38209c0c23cda</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7527"/>
+        <updated>2022-02-17T05:45:46.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[18:14 | [2월 16일 정기점검 안내] | 7526]]></title>
         <id>bfbc485ac38a71d42e60c9ca17e3849f</id>
