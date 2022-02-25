@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-Korea/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-25T11:30:51.241Z</updated>
+    <updated>2022-02-25T11:46:13.242Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-Korea/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-Korea/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[19:14 | [2월 25일 점검 후 확인된 오류 현상 안내](수정) | 7548]]></title>
+        <id>1f20d813d5fd5430fc0945266c809646</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7548"/>
+        <updated>2022-02-25T11:46:10.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17:17 | [2월 대규모 업데이트 기념 GM 이벤트 안내] | 7547]]></title>
+        <id>590bc19cb21f5eb8cc40aeb3c8a88a23</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7547"/>
+        <updated>2022-02-25T11:46:09.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[13:00 | [2월 25일 임시점검 안내] | 7546]]></title>
         <id>0919978a59b780841fde915af6c07f4f</id>

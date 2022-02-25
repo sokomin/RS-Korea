@@ -280,6 +280,26 @@
       "siteUrl": "http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx",
       "articles": [
         {
+          "id": "1f20d813d5fd5430fc0945266c809646",
+          "author": null,
+          "description": "アクセスできない時はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7548",
+          "publishedOn": "2022-02-25T11:46:10.000Z",
+          "wordCount": 251,
+          "title": "19:14 | [2월 25일 점검 후 확인된 오류 현상 안내](수정) | 7548",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
+          "id": "590bc19cb21f5eb8cc40aeb3c8a88a23",
+          "author": null,
+          "description": "アクセスできない時はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7547",
+          "publishedOn": "2022-02-25T11:46:09.000Z",
+          "wordCount": 1128,
+          "title": "17:17 | [2월 대규모 업데이트 기념 GM 이벤트 안내] | 7547",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
           "id": "0919978a59b780841fde915af6c07f4f",
           "author": null,
           "description": "アクセスできない時はこちら\n-- Delivered by Feed43 service",
