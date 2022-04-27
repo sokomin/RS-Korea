@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-Korea/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-27T08:50:08.698Z</updated>
+    <updated>2022-04-27T09:06:20.267Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-Korea/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-Korea/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[11:47 | [4월 27일 신규 한정 상품 판매 안내] | 7580]]></title>
+        <id>609d1abbeddb0f23abcbaa6aae42b4a6</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7580"/>
+        <updated>2022-04-27T09:05:42.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない場合はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国アップデート</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17:58 | [4월 27일 임시점검 안내] | 7587]]></title>
+        <id>d5d923c2bbb9a071c9d33def27ec7f03</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7587"/>
+        <updated>2022-04-27T09:05:42.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11:40 | [RS PASS 시즌4 안내] | 7579]]></title>
+        <id>fc9ee30f84ac539ce065772baa742d83</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7579"/>
+        <updated>2022-04-27T09:05:41.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない場合はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国アップデート</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14:10 | [4월 27일 점검 후 확인된 오류 현상 안내](추가) | 7586]]></title>
+        <id>1a0ab4aaa7af4d9ea3f55d59c4c70303</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7586"/>
+        <updated>2022-04-27T09:05:41.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11:29 | [4월 27일 황금 코인 이벤트 안내] | 7578]]></title>
+        <id>b716fe3e14e02a0100dbd8808865d032</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7578"/>
+        <updated>2022-04-27T09:05:40.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない場合はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国アップデート</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10:14 | [4월 성장지원 업데이트 기념 GM 이벤트 안내] | 7576]]></title>
+        <id>543c97d7a06da6b07a0122b2e494d2db</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7576"/>
+        <updated>2022-04-27T09:05:40.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11:09 | [4월 27일 업데이트 안내] | 7577]]></title>
+        <id>b4b8434975bd205a91da2619b1e6ca8f</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7577"/>
+        <updated>2022-04-27T09:05:39.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない場合はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国アップデート</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[21:03 | [4월 27일 정기점검 안내] | 7575]]></title>
         <id>d37b9195cf979c48a40ad3509a66d011</id>

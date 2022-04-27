@@ -6,6 +6,46 @@
       "siteUrl": "http://redstone.logickorea.co.kr/notice/updateboard/list.aspx",
       "articles": [
         {
+          "id": "609d1abbeddb0f23abcbaa6aae42b4a6",
+          "author": null,
+          "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7580",
+          "publishedOn": "2022-04-27T09:05:42.000Z",
+          "wordCount": 774,
+          "title": "11:47 | [4월 27일 신규 한정 상품 판매 안내] | 7580",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
+          "id": "fc9ee30f84ac539ce065772baa742d83",
+          "author": null,
+          "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7579",
+          "publishedOn": "2022-04-27T09:05:41.000Z",
+          "wordCount": 901,
+          "title": "11:40 | [RS PASS 시즌4 안내] | 7579",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
+          "id": "b716fe3e14e02a0100dbd8808865d032",
+          "author": null,
+          "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7578",
+          "publishedOn": "2022-04-27T09:05:40.000Z",
+          "wordCount": 536,
+          "title": "11:29 | [4월 27일 황금 코인 이벤트 안내] | 7578",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
+          "id": "b4b8434975bd205a91da2619b1e6ca8f",
+          "author": null,
+          "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7577",
+          "publishedOn": "2022-04-27T09:05:39.000Z",
+          "wordCount": 5320,
+          "title": "11:09 | [4월 27일 업데이트 안내] | 7577",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
           "id": "afb532ff60ca5656ea5ab03b2f06c3a0",
           "author": null,
           "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
@@ -319,6 +359,36 @@
       "feedUrl": "https://node2.feed43.com/0750874822243831.xml",
       "siteUrl": "http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx",
       "articles": [
+        {
+          "id": "d5d923c2bbb9a071c9d33def27ec7f03",
+          "author": null,
+          "description": "アクセスできない時はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7587",
+          "publishedOn": "2022-04-27T09:05:42.000Z",
+          "wordCount": 285,
+          "title": "17:58 | [4월 27일 임시점검 안내] | 7587",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
+          "id": "1a0ab4aaa7af4d9ea3f55d59c4c70303",
+          "author": null,
+          "description": "アクセスできない時はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7586",
+          "publishedOn": "2022-04-27T09:05:41.000Z",
+          "wordCount": 242,
+          "title": "14:10 | [4월 27일 점검 후 확인된 오류 현상 안내](추가) | 7586",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
+          "id": "543c97d7a06da6b07a0122b2e494d2db",
+          "author": null,
+          "description": "アクセスできない時はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7576",
+          "publishedOn": "2022-04-27T09:05:40.000Z",
+          "wordCount": 1353,
+          "title": "10:14 | [4월 성장지원 업데이트 기념 GM 이벤트 안내] | 7576",
+          "imageUrl": "/img/og.jpg"
+        },
         {
           "id": "d37b9195cf979c48a40ad3509a66d011",
           "author": null,
