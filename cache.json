@@ -360,6 +360,16 @@
       "siteUrl": "http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx",
       "articles": [
         {
+          "id": "2cfd75d72a602cf8b3c26b8b1f05e8ac",
+          "author": null,
+          "description": "アクセスできない時はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7588",
+          "publishedOn": "2022-04-30T23:45:52.000Z",
+          "wordCount": 227,
+          "title": "07:53 | [특정 서버 접속 관련 문제 사항] (정상화) | 7588",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
           "id": "d5d923c2bbb9a071c9d33def27ec7f03",
           "author": null,
           "description": "アクセスできない時はこちら\n-- Delivered by Feed43 service",
