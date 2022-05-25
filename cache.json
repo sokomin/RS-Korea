@@ -6,6 +6,36 @@
       "siteUrl": "http://redstone.logickorea.co.kr/notice/updateboard/list.aspx",
       "articles": [
         {
+          "id": "003f4b6491a3fdb3ee53ad4ed156f558",
+          "author": null,
+          "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7603",
+          "publishedOn": "2022-05-25T05:02:55.000Z",
+          "wordCount": 1635,
+          "title": "09:49 | [5월 25일 신규 한정 상품 판매 안내] | 7603",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
+          "id": "dbc9f2d3836fc4d7c7a4b43da37c55b8",
+          "author": null,
+          "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7602",
+          "publishedOn": "2022-05-25T05:02:54.000Z",
+          "wordCount": 1942,
+          "title": "09:48 | [붉은보석 19주년 이벤트 안내] | 7602",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
+          "id": "c7bcc95cd1361614fb04f2b7bc40c80f",
+          "author": null,
+          "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7600",
+          "publishedOn": "2022-05-25T05:02:53.000Z",
+          "wordCount": 579,
+          "title": "09:37 | [히든 스페셜 코스튬 : 메카웨어 안내] | 7600",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
           "id": "609d1abbeddb0f23abcbaa6aae42b4a6",
           "author": null,
           "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
@@ -359,6 +389,16 @@
       "feedUrl": "https://node2.feed43.com/0750874822243831.xml",
       "siteUrl": "http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx",
       "articles": [
+        {
+          "id": "e397ccaf5b05c01f6b047edd9c418238",
+          "author": null,
+          "description": "アクセスできない時はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7604",
+          "publishedOn": "2022-05-25T05:02:55.000Z",
+          "wordCount": 1270,
+          "title": "12:02 | [19주년 기념 감사 GM 이벤트 안내] | 7604",
+          "imageUrl": "/img/og.jpg"
+        },
         {
           "id": "853beda12af1f3316241a0a3b661483e",
           "author": null,
