@@ -6,6 +6,16 @@
       "siteUrl": "http://redstone.logickorea.co.kr/notice/updateboard/list.aspx",
       "articles": [
         {
+          "id": "c1f9bddbfa75156a60f4fef343ff9133",
+          "author": null,
+          "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7609",
+          "publishedOn": "2022-05-30T10:04:12.000Z",
+          "wordCount": 405,
+          "title": "17:07 | [RS PASS 4 경험치 증가 상품 및 교환 상점 안내] | 7609",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
           "id": "003f4b6491a3fdb3ee53ad4ed156f558",
           "author": null,
           "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
@@ -389,6 +399,16 @@
       "feedUrl": "https://node2.feed43.com/0750874822243831.xml",
       "siteUrl": "http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx",
       "articles": [
+        {
+          "id": "bed62319ad0ac9ad293d70a57395cedc",
+          "author": null,
+          "description": "アクセスできない時はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7608",
+          "publishedOn": "2022-05-30T10:04:12.000Z",
+          "wordCount": 326,
+          "title": "15:36 | [5월 30일 임시점검 안내] | 7608",
+          "imageUrl": "/img/og.jpg"
+        },
         {
           "id": "4c246c69f37765a51b0799ed277e56ee",
           "author": null,
