@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-Korea/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-31T10:06:33.865Z</updated>
+    <updated>2022-05-31T10:33:53.823Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-Korea/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-Korea/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[18:47 | [6월 1일 핫타임 이벤트 안내] | 7611]]></title>
+        <id>b7e672e4ad7140ff2379b66a861e5497</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7611"/>
+        <updated>2022-05-31T10:33:48.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18:31 | [5월 31일 서버불안정 현상 안내] | 7610]]></title>
+        <id>c5f9abfaa988a002b64bd94ca417a3f6</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7610"/>
+        <updated>2022-05-31T10:33:47.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[17:07 | [RS PASS 4 경험치 증가 상품 및 교환 상점 안내] | 7609]]></title>
         <id>c1f9bddbfa75156a60f4fef343ff9133</id>
