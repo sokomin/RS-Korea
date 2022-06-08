@@ -400,6 +400,16 @@
       "siteUrl": "http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx",
       "articles": [
         {
+          "id": "42a98a8421900edc3155a8ab073556c2",
+          "author": null,
+          "description": "アクセスできない時はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7616",
+          "publishedOn": "2022-06-08T11:45:59.000Z",
+          "wordCount": 238,
+          "title": "18:14 | [6월 8일 점검 후 확인된 오류 현상 안내] | 7616",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
           "id": "dc0e9689a2acf632395aae75058b0aa3",
           "author": null,
           "description": "アクセスできない時はこちら\n-- Delivered by Feed43 service",
