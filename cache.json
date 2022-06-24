@@ -6,6 +6,16 @@
       "siteUrl": "http://redstone.logickorea.co.kr/notice/updateboard/list.aspx",
       "articles": [
         {
+          "id": "0881f1e9c3af8e66fed36d389119bdcc",
+          "author": null,
+          "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7623",
+          "publishedOn": "2022-06-24T11:24:10.000Z",
+          "wordCount": 454,
+          "title": "17:18 | [6월 당근 할인 판매 이벤트 안내] | 7623",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
           "id": "c1f9bddbfa75156a60f4fef343ff9133",
           "author": null,
           "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
@@ -399,6 +409,16 @@
       "feedUrl": "https://node2.feed43.com/0750874822243831.xml",
       "siteUrl": "http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx",
       "articles": [
+        {
+          "id": "0812e4223534d6adf6607fb9d5e9f354",
+          "author": null,
+          "description": "アクセスできない時はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7622",
+          "publishedOn": "2022-06-24T11:24:10.000Z",
+          "wordCount": 399,
+          "title": "16:38 | [6월 24일 홈페이지 점검 안내] | 7622",
+          "imageUrl": "/img/og.jpg"
+        },
         {
           "id": "ed4fe1047a99692278c5f745d7ac914e",
           "author": null,
