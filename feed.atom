@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-Korea/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-28T14:45:51.309Z</updated>
+    <updated>2022-06-28T15:05:14.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-Korea/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-Korea/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022-06-28 | [6월 29일 정기점검 안내](추가) | 7624]]></title>
+        <id>eddf4a6f84b9acdc89d5e14be0071c03</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7624"/>
+        <updated>2022-06-28T15:05:12.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[17:18 | [6월 당근 할인 판매 이벤트 안내] | 7623]]></title>
         <id>0881f1e9c3af8e66fed36d389119bdcc</id>
