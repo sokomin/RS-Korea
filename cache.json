@@ -6,6 +6,46 @@
       "siteUrl": "http://redstone.logickorea.co.kr/notice/updateboard/list.aspx",
       "articles": [
         {
+          "id": "c94db8ffeaa3f0f1976dd82c152faad5",
+          "author": null,
+          "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7628",
+          "publishedOn": "2022-06-29T10:05:43.000Z",
+          "wordCount": 2318,
+          "title": "10:28 | [6월 29일 신규 한정 상품 판매 안내] | 7628",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
+          "id": "bf9ad77f01922765f10ee6f8f8cf7327",
+          "author": null,
+          "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7627",
+          "publishedOn": "2022-06-29T10:05:42.000Z",
+          "wordCount": 511,
+          "title": "10:27 | [6월 사냥 이벤트 안내] | 7627",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
+          "id": "12ab817bf53dae4e5af5db61e4b85c83",
+          "author": null,
+          "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7626",
+          "publishedOn": "2022-06-29T10:05:41.000Z",
+          "wordCount": 2902,
+          "title": "10:27 | [6월 29일 업데이트 안내] | 7626",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
+          "id": "88dadfb1e6a52ee917bbbff46fc62b75",
+          "author": null,
+          "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7625",
+          "publishedOn": "2022-06-29T10:05:40.000Z",
+          "wordCount": 1531,
+          "title": "10:26 | [선장 전직 업데이트 안내] | 7625",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
           "id": "0881f1e9c3af8e66fed36d389119bdcc",
           "author": null,
           "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
@@ -409,6 +449,16 @@
       "feedUrl": "https://node2.feed43.com/0750874822243831.xml",
       "siteUrl": "http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx",
       "articles": [
+        {
+          "id": "8e6d550bde0eb13e5fcfddc10665029a",
+          "author": null,
+          "description": "アクセスできない時はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7629",
+          "publishedOn": "2022-06-29T10:05:43.000Z",
+          "wordCount": 1288,
+          "title": "10:30 | [2022 선장 전직 업데이트 기념 GM 이벤트 안내] | 7629",
+          "imageUrl": "/img/og.jpg"
+        },
         {
           "id": "eddf4a6f84b9acdc89d5e14be0071c03",
           "author": null,
