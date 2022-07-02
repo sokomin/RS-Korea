@@ -450,6 +450,26 @@
       "siteUrl": "http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx",
       "articles": [
         {
+          "id": "a60f15e1ff3f0a2ddce01d804b4d7aa5",
+          "author": null,
+          "description": "アクセスできない時はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7634",
+          "publishedOn": "2022-07-02T06:50:57.000Z",
+          "wordCount": 390,
+          "title": "2022-07-01 | [선장 스탯/스킬 재분배 이벤트 안내] | 7634",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
+          "id": "89426a7c6a17b7228a54ffcac3de3b2f",
+          "author": null,
+          "description": "アクセスできない時はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7633",
+          "publishedOn": "2022-07-02T06:50:56.000Z",
+          "wordCount": 499,
+          "title": "2022-07-01 | [6월 29일 점검 후 확인된 오류 현상 안내] | 7633",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
           "id": "8e6d550bde0eb13e5fcfddc10665029a",
           "author": null,
           "description": "アクセスできない時はこちら\n-- Delivered by Feed43 service",
