@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-Korea/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-05T10:48:33.815Z</updated>
+    <updated>2022-07-05T11:04:06.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-Korea/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-Korea/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[17:49 | [7월 6일 정기점검 안내](수정) | 7636]]></title>
+        <id>b7bce0304730400ffbe4408322dc636e</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7636"/>
+        <updated>2022-07-05T11:04:04.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022-07-01 | [선장 스탯/스킬 재분배 이벤트 안내] | 7634]]></title>
         <id>a60f15e1ff3f0a2ddce01d804b4d7aa5</id>
