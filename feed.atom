@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-Korea/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-11T10:05:52.179Z</updated>
+    <updated>2022-07-11T10:31:15.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-Korea/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-Korea/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[17:17 | [핫타임 진행 이상 및 시간 변경 안내] | 7638]]></title>
+        <id>e16848511a85cf4e8f90f5faa86e5505</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7638"/>
+        <updated>2022-07-11T10:31:12.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10:45 | [선장 전직 업데이트 기념 GM 이벤트 1주차 당첨자 안내] | 7637]]></title>
         <id>960d00b0074f7d6a680df2b20b3187a8</id>
