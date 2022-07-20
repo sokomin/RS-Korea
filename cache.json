@@ -6,6 +6,26 @@
       "siteUrl": "http://redstone.logickorea.co.kr/notice/updateboard/list.aspx",
       "articles": [
         {
+          "id": "d9b83ea652de56371427a44f0847e075",
+          "author": null,
+          "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7644",
+          "publishedOn": "2022-07-20T08:52:32.000Z",
+          "wordCount": 1165,
+          "title": "10:12 | [7월 20일 신규 한정 상품 판매 안내] | 7644",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
+          "id": "d7595b8bd284ad76cf33cf62c2a08f94",
+          "author": null,
+          "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7643",
+          "publishedOn": "2022-07-20T08:52:31.000Z",
+          "wordCount": 1151,
+          "title": "10:12 | [여름축제 이벤트 안내] | 7643",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
           "id": "c94db8ffeaa3f0f1976dd82c152faad5",
           "author": null,
           "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
@@ -449,6 +469,16 @@
       "feedUrl": "https://node2.feed43.com/0750874822243831.xml",
       "siteUrl": "http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx",
       "articles": [
+        {
+          "id": "18e6cb58278eec222aa22b2b63205f0b",
+          "author": null,
+          "description": "アクセスできない時はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7642",
+          "publishedOn": "2022-07-20T08:52:32.000Z",
+          "wordCount": 915,
+          "title": "10:10 | [선장 전직 업데이트 기념 GM 이벤트 3주차 당첨자 안내] | 7642",
+          "imageUrl": "/img/og.jpg"
+        },
         {
           "id": "8a184e8a936a2c359dc2206ee9a0bde5",
           "author": null,

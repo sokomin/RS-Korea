@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-Korea/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-20T08:35:52.961Z</updated>
+    <updated>2022-07-20T08:52:39.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-Korea/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-Korea/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10:12 | [7월 20일 신규 한정 상품 판매 안내] | 7644]]></title>
+        <id>d9b83ea652de56371427a44f0847e075</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7644"/>
+        <updated>2022-07-20T08:52:32.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない場合はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国アップデート</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10:10 | [선장 전직 업데이트 기념 GM 이벤트 3주차 당첨자 안내] | 7642]]></title>
+        <id>18e6cb58278eec222aa22b2b63205f0b</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7642"/>
+        <updated>2022-07-20T08:52:32.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10:12 | [여름축제 이벤트 안내] | 7643]]></title>
+        <id>d7595b8bd284ad76cf33cf62c2a08f94</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7643"/>
+        <updated>2022-07-20T08:52:31.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない場合はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国アップデート</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[17:20 | [7월 20일 정기점검 안내] | 7641]]></title>
         <id>8a184e8a936a2c359dc2206ee9a0bde5</id>
