@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-Korea/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-27T00:38:40.230Z</updated>
+    <updated>2022-07-27T03:05:39.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-Korea/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-Korea/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[09:46 | [RS PASS 시즌5 안내] | 7651]]></title>
+        <id>b7c1b93b6b57261282122178154ac1f0</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7651"/>
+        <updated>2022-07-27T03:05:31.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない場合はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国アップデート</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[18:08 | [7월 27일 정기점검 안내] | 7650]]></title>
         <id>4175ddc797e63975c18ee3a682fe661d</id>
