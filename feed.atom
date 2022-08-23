@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-Korea/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-23T10:48:55.677Z</updated>
+    <updated>2022-08-23T11:02:14.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-Korea/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-Korea/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[17:45 | [도약 업데이트 미리보기 안내] | 7661]]></title>
+        <id>0a6f8fdb5c7fcb4f2e3099325f7663ba</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7661"/>
+        <updated>2022-08-23T11:02:11.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17:42 | [8월 24일 정기점검 안내] | 7660]]></title>
+        <id>90d36c728b771339e485d882f90b5d73</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7660"/>
+        <updated>2022-08-23T11:02:10.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10:43 | [2022 여름축제 기념 GM 이벤트 Part 2 2주 차 당첨자 안내] | 7659]]></title>
         <id>11aa4095bb4a8d98e41d2dc51548f34b</id>
