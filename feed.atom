@@ -2,10 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-Korea/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-29T10:52:11.670Z</updated>
+    <updated>2022-08-29T11:04:16.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-Korea/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-Korea/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[09:50 | [8월 29일 신규 한정 상품 판매 안내] | 7668]]></title>
+        <id>e9a59f7b035fc690046ad4e1582aadd1</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7668"/>
+        <updated>2022-08-29T11:03:52.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない場合はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国アップデート</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18:01 | [8월 29일 임시점검 안내] | 7674]]></title>
+        <id>73660d5cc6c74a5a0372f5743b2509c7</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7674"/>
+        <updated>2022-08-29T11:03:52.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[09:49 | [8월 29일 신규 ULT 아이템 안내] (수정) | 7667]]></title>
+        <id>a62ce4329f2dc4dbceeb3a41923fd601</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7667"/>
+        <updated>2022-08-29T11:03:51.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない場合はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国アップデート</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15:14 | [8월 29일 점검 후 확인된 오류 현상 안내](수정) | 7673]]></title>
+        <id>c27fb2fa6eefe593aad63d3d1563aa07</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7673"/>
+        <updated>2022-08-29T11:03:51.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[09:48 | [추석 이벤트 안내] | 7666]]></title>
+        <id>6abc0c5738fb42ce5e54c9b419067b46</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7666"/>
+        <updated>2022-08-29T11:03:50.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない場合はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国アップデート</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[09:50 | [도약 업데이트 기념 GM 이벤트] | 7669]]></title>
+        <id>8eeed5de92d590c5a72c9155fefd31e5</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7669"/>
+        <updated>2022-08-29T11:03:50.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[09:48 | [8월 햇병아리 성장 이벤트 안내] | 7665]]></title>
+        <id>362cd03003e5c502782e3bbd27138be2</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7665"/>
+        <updated>2022-08-29T11:03:49.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない場合はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国アップデート</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[09:46 | [8월 29일 도약 업데이트 안내] | 7664]]></title>
+        <id>b40c9a3d332d7742821aaa5ce7b15774</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7664"/>
+        <updated>2022-08-29T11:03:48.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない場合はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国アップデート</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[19:22 | [8월 29일 정기점검 안내] | 7663]]></title>
         <id>e6c934f33cfa5053cedb66baf79e2432</id>
