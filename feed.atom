@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-Korea/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-31T05:17:06.089Z</updated>
+    <updated>2022-08-31T06:39:44.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-Korea/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-Korea/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[12:06 | [RS PASS 경험치 증가권 상품 및 교환 상점 안내] | 7676]]></title>
+        <id>ac6c35851b2c3a0f42fa3724336ae574</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7676"/>
+        <updated>2022-08-31T06:39:42.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない場合はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国アップデート</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[18:35 | [8월 31일 정기점검 진행] | 7675]]></title>
         <id>713aeeb92d65603a3023d0b8cb5734b1</id>
