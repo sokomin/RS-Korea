@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sokomin.github.io/RS-Korea/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-21T09:35:05.391Z</updated>
+    <updated>2022-09-21T09:53:04.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://sokomin.github.io/RS-Korea/index.html"/>
     <link rel="self" href="https://sokomin.github.io/RS-Korea/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10:21 | [9월 21일 신규 한정 상품 판매 안내] | 7687]]></title>
+        <id>ed25da50be55d8cb265daf9b7a7116c1</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7687"/>
+        <updated>2022-09-21T09:53:00.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない場合はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国アップデート</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16:18 | [9월 21일 임시점검 안내] | 7691]]></title>
+        <id>22ef61e0425a7fe73e285e2b217e8381</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7691"/>
+        <updated>2022-09-21T09:53:00.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10:21 | [9월 가을 이벤트 안내] | 7686]]></title>
+        <id>e3787cbe4c116c56f01e662a599e25ba</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7686"/>
+        <updated>2022-09-21T09:52:59.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない場合はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国アップデート</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10:23 | [2022 가을 업데이트 기념 GM 이벤트 Part 1 안내] | 7688]]></title>
+        <id>eaf6d82b410c302687ce27cc5a127e56</id>
+        <link href="http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7688"/>
+        <updated>2022-09-21T09:52:59.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない時はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10:20 | [9월 21일 업데이트 안내] | 7685]]></title>
+        <id>49ebf8c9b4725a98e65e11039ceaa5f4</id>
+        <link href="http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7685"/>
+        <updated>2022-09-21T09:52:58.000Z</updated>
+        <summary type="html"><![CDATA[アクセスできない場合はこちら
+-- Delivered by Feed43 service]]></summary>
+        <author>
+            <name>韓国アップデート</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[17:31 | [9월 21일 정기점검 안내] | 7684]]></title>
         <id>8b8e7d0623add2e271e16f915b41036d</id>

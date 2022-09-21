@@ -6,6 +6,36 @@
       "siteUrl": "http://redstone.logickorea.co.kr/notice/updateboard/list.aspx",
       "articles": [
         {
+          "id": "ed25da50be55d8cb265daf9b7a7116c1",
+          "author": null,
+          "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7687",
+          "publishedOn": "2022-09-21T09:53:00.000Z",
+          "wordCount": 1056,
+          "title": "10:21 | [9월 21일 신규 한정 상품 판매 안내] | 7687",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
+          "id": "e3787cbe4c116c56f01e662a599e25ba",
+          "author": null,
+          "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7686",
+          "publishedOn": "2022-09-21T09:52:59.000Z",
+          "wordCount": 1459,
+          "title": "10:21 | [9월 가을 이벤트 안내] | 7686",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
+          "id": "49ebf8c9b4725a98e65e11039ceaa5f4",
+          "author": null,
+          "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/updateboard/view.aspx?sqn=7685",
+          "publishedOn": "2022-09-21T09:52:58.000Z",
+          "wordCount": 417,
+          "title": "10:20 | [9월 21일 업데이트 안내] | 7685",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
           "id": "ac6c35851b2c3a0f42fa3724336ae574",
           "author": null,
           "description": "アクセスできない場合はこちら\n-- Delivered by Feed43 service",
@@ -539,6 +569,26 @@
       "feedUrl": "https://node2.feed43.com/0750874822243831.xml",
       "siteUrl": "http://redstone.logickorea.co.kr/notice/noticeboard/list.aspx",
       "articles": [
+        {
+          "id": "22ef61e0425a7fe73e285e2b217e8381",
+          "author": null,
+          "description": "アクセスできない時はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7691",
+          "publishedOn": "2022-09-21T09:53:00.000Z",
+          "wordCount": 485,
+          "title": "16:18 | [9월 21일 임시점검 안내] | 7691",
+          "imageUrl": "/img/og.jpg"
+        },
+        {
+          "id": "eaf6d82b410c302687ce27cc5a127e56",
+          "author": null,
+          "description": "アクセスできない時はこちら\n-- Delivered by Feed43 service",
+          "link": "http://redstone.logickorea.co.kr/notice/noticeboard/view.aspx?sqn=7688",
+          "publishedOn": "2022-09-21T09:52:59.000Z",
+          "wordCount": 786,
+          "title": "10:23 | [2022 가을 업데이트 기념 GM 이벤트 Part 1 안내] | 7688",
+          "imageUrl": "/img/og.jpg"
+        },
         {
           "id": "8b8e7d0623add2e271e16f915b41036d",
           "author": null,
